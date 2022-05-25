@@ -21,9 +21,9 @@ http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/683243
 #EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Hauptsender",RTL
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/6216
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 HD" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1 HD
-http://185.234.111.36:8003/play/a0b1/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/6210
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1
+http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/683455
 #EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben HD
 http://185.234.111.36:8003/play/a0b2/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B] HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben [B] HD
@@ -84,6 +84,8 @@ http://185.234.111.36:8003/play/a0b5/index.m3u8?HasBahCa.m3u8
 
 
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
+http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/6219
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD [B]" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLyVOCr7dTH12oCSUzMpxj0/ts
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/13145
