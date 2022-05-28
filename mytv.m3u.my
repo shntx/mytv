@@ -63,6 +63,10 @@ http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/13137
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/8219
 #EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/9152
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup [B]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup
+http://45.12.1.14:80/ANlkz5365/doJEAs984/19655
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup [B2]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup
+http://185.236.229.20:9091/play/a004
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime HD" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime HD
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/6214
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime
