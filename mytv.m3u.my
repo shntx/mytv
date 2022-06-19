@@ -82,9 +82,9 @@ http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/6213
 #EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat1 Emotion" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" group-title="Hauptsender",Sat1 Emotion
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/13135
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold HD" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD
-http://mag.you24.online:8080/i01m1m11u8/e1cjgvr0ba/6209
+http://212.18.115.193:3549/play/a00y/index.m3u8 
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold HD [B]" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD [B]
-http://185.236.229.20:9091/play/a050
+http://2022spn.net:8080/miguelangel/21041978/5245
 
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/6219
