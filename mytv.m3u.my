@@ -1,43 +1,43 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Hauptsender",Das Erste
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13166
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13166
 #EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste [B]" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Hauptsender",Das Erste [B]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6262
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6262
 #EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Hauptsender",Das Erste
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6256
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6256
 #EXTINF:-1 tvg-id="one.de" tvg-name="One" tvg-logo="https://i.postimg.cc/0j5SXKbW/One.png" group-title="Hauptsender",One
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Hauptsender",ZDF HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6151
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6151
 #EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Hauptsender",ZDF
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/17011
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/17011
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF Neo" tvg-logo="https://i.postimg.cc/RCY0f7BY/ZDFneo.jpg" group-title="Hauptsender",ZDF Neo
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/17304
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/17304
 #EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Hauptsender",RTL HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13565
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13565
 #EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD [B]" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Hauptsender",RTL HD [B]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683243
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683243
 #EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Hauptsender",RTL
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6216
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6216
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 HD" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6210
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6210
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683455
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683455
 #EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben HD
 http://185.234.111.36:8003/play/a0b2/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B] HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben [B] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8235
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8235
 #EXTINF:-1 tvg-id="prosieben.de" tvg-name="ProSieben" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683393
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683393
 #EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B]" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben [B]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13144
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13144
 #EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" group-title="Hauptsender",VOX HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13553
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13553
 #EXTINF:-1 tvg-id="vox.de" tvg-name="VOX" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" group-title="Hauptsender",VOX
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6153
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6153
 #EXTINF:-1 tvg-id="" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Hauptsender",VOXup
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679836
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679836
 #EXTINF:-1 tvg-id="" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Hauptsender",VOXup [B]
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJB79BH4_YEpIBTMsLEasLfo/ts
 #EXTINF:-1 tvg-id="" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Hauptsender",VOXup [B2]
@@ -46,563 +46,563 @@ http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/436.m3u8
 plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://www.tvnow.de/live-tv/voxup&xdrm=True&xstat&xnormSD&xhighHD=https://plivenowusodash-a.akamaihd.net/live/voxuphdlive/voxuphdlive.isml/.mpd
 
 #EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel 1 HD" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" group-title="Hauptsender",Kabel 1 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6242
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6242
 #EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Hauptsender",Kabel 1 Classic
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9151
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9151
 #EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Hauptsender",Kabel 1 Classic
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679844
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679844
 #EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Hauptsender",RTL 2 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6215
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6215
 #EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Hauptsender",RTL 2
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13136
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13136
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro HD" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Hauptsender",RTL Nitro HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6212
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6212
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Hauptsender",RTL Nitro
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13137
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13137
 #EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL Passion HD" tvg-logo="http://pici.life/rtlpassion.png" group-title="Hauptsender",RTL Passion HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8219
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8219
 #EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9152
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9152
 #EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup [B]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup [B]
 http://45.12.1.14:80/ANlkz5365/doJEAs984/19655
 #EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup [B2]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup [B2]
 http://185.236.229.20:9091/play/a004
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime HD" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6214
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6214
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/17012
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/17012
 #EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation HD" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6263
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6263
 #EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8197
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8197
 #EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Hauptsender",RTL Living HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6150
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6150
 #EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Hauptsender",RTL Living
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6213
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6213
 #EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat1 Emotion" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" group-title="Hauptsender",Sat1 Emotion
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13135
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13135
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold HD" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD
 http://212.18.115.193:3549/play/a00y/index.m3u8 
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold HD [B]" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD [B]
 http://2022spn.net:8080/miguelangel/21041978/5245
 
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6219
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6219
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD [B]" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLyVOCr7dTH12oCSUzMpxj0/ts
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13145
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13145
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun [B]" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun [B]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13142
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13142
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx HD" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Hauptsender",ProSieben Maxx HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6218
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6218
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Hauptsender",ProSieben Maxx
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683394
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683394
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Hauptsender",Pro Sieben Maxx
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13143
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13143
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx HD" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Hauptsender",Pro Sieben Maxx HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8234
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8234
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx HD" tvg-logo="https://i.postimg.cc/66rT1x4k/Sixx.png" group-title="Hauptsender",Sixx HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6207
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6207
 #EXTINF:-1 tvg-id="tele5.de" tvg-name="Tele 5" tvg-logo="https://i.postimg.cc/43PB1SbV/Tele-5-2021.png" group-title="Hauptsender",Tele 5
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9150
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9150
 #EXTINF:-1 tvg-id="srf1.ch" tvg-name="SRF 1" tvg-logo="https://i.postimg.cc/GtHQrM2f/SRF1.png" group-title="Hauptsender",SRF 1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6170
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6170
 #EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR" tvg-logo="https://i.postimg.cc/nVBrts79/MDR.jpg" group-title="Hauptsender",MDR
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6238
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6238
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3Sat HD" tvg-logo="https://i.postimg.cc/C5QmNvNd/3sat-2019.jpg" group-title="Hauptsender",3Sat HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/16289
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/16289
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://i.postimg.cc/C5QmNvNd/3sat-2019.jpg" group-title="Hauptsender",3sat
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6265
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6265
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR" tvg-logo="https://i.postimg.cc/L8fNt3Z6/NDR.jpg" group-title="Hauptsender",NDR
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6225
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6225
 #EXTINF:-1 tvg-id="hr.de" tvg-name="HR HD" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Hauptsender",HR HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13150
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13150
 #EXTINF:-1 tvg-id="hr.de" tvg-name="HR" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Hauptsender",HR
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6243
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6243
 #EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB Berlin" tvg-logo="https://i.postimg.cc/J0z1fQkb/RBB-Fernsehen-2017.png" group-title="Hauptsender",RBB Berlin
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6217
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6217
 #EXTINF:-1 tvg-id="br.de" tvg-name="BR" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Hauptsender",BR
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/687568
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/687568
 #EXTINF:-1 tvg-id="br.de" tvg-name="BR" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Hauptsender",BR
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13168
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13168
 #EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR" tvg-logo="https://i.postimg.cc/NfWcDtp8/SWR-Fernsehen.jpg" group-title="Hauptsender",SWR
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6165
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6165
 #EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR" tvg-logo="https://i.postimg.cc/Kjwd07rc/WDR-2012.jpg" group-title="Hauptsender",WDR
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6152
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6152
 #EXTINF:-1 tvg-id="" tvg-name="Franken Fernsehen HD" tvg-logo="https://i.postimg.cc/Z54h2Hz0/Franken-Fernsehen.jpg" group-title="Hauptsender",Franken Fernsehen HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/677835
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/677835
 #EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV HD" tvg-logo="https://i.postimg.cc/RVfkQ2DZ/Bw-family-tv.png" group-title="Hauptsender",BW Family TV HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6246
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6246
 #EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV" tvg-logo="https://i.postimg.cc/RVfkQ2DZ/Bw-family-tv.png" group-title="Hauptsender",BW Family TV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/23772
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/23772
 #EXTINF:-1 tvg-id="qvc.de" tvg-name="QVC" tvg-logo="https://i.postimg.cc/T3CBSXcH/QVC-2019.jpg" group-title="Hauptsender",QVC
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13140
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13140
 #EXTINF:-1 tvg-id="qvcstyle.de" tvg-name="QVC Style HD" tvg-logo="https://i.postimg.cc/WzTnTdNm/QVC-Style.jpg" group-title="Hauptsender",QVC Style HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13141
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13141
 #EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="Sonnenklar TV HD" tvg-logo="https://i.postimg.cc/25nhyCX0/Sonnenklar-tv.png" group-title="Hauptsender",Sonnenklar TV HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13130
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13130
 
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Movies & Series ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Movies&Series",✽✽⭒ Movies&Series ⭒✽✽
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/678836
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/678836
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street HD" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Movies&Series",Sky 13TH Street HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5098
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5098
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Movies&Series",Sky 13TH Street
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7365
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7365
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street [B]" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Movies&Series",Sky 13TH Street [B]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8198
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8198
 #EXTINF:-1 tvg-id="axn.de" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/k4PXf2T0/AXN.jpg" group-title="Movies&Series",AXN HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5097
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5097
 #EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment HD" tvg-logo="https://i.postimg.cc/Ls8g9HRK/E-entertainment.jpg" group-title="Germany",E! Entertainment HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13569
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13569
 #EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/Ls8g9HRK/E-entertainment.jpg" group-title="Germany",E! Entertainment
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9137
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9137
 #EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/Ls8g9HRK/E-entertainment.jpg" group-title="Germany",E! Entertainment
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5095
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5095
 #EXTINF:-1 tvg-id="axn.de" tvg-name="AXN" tvg-logo="https://i.postimg.cc/k4PXf2T0/AXN.jpg" group-title="Movies&Series",AXN
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6259
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6259
 #EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy HD" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Movies&Series",Syfy HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7364
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7364
 #EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Movies&Series",Syfy
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5087
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5087
 #EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Movies&Series",Syfy
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6164
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6164
 #EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WarnerTV Comedy HD" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6157
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6157
 #EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WarnerTV Comedy" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/687541
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/687541
 #EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="WarnerTV Film HD" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6156
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6156
 #EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="WarnerTV Film" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683894
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683894
 #EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie HD" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5084
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5084
 #EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6155
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6155
 #EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13154
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13154
 #EXTINF:-1 tvg-id="universal.de" tvg-name="Universal HD" tvg-logo="https://i.postimg.cc/mrVqXDNd/Universal-TV-logo.png" group-title="Movies&Series",Universal HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5265
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5265
 #EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="Sony Channel" tvg-logo="https://i.postimg.cc/kXnTZ9Gz/Sony-Channel-2019.png" group-title="Movies&Series",Sony Channel
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6167
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6167
 #EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt HD" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" group-title="Movies&Series",Kinowelt HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6240
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6240
 #EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" group-title="Movies&Series",Kinowelt
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/672086
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/672086
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/KzgFSxHn/Comedy-Central-2018.jpg" group-title="Movies&Series",Comedy Central HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6154
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6154
 #EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV" tvg-logo="https://i.postimg.cc/6QrLHv9R/Romance-TV-2015.jpg" group-title="Movies&Series",Romance TV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13152
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13152
 #EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV" tvg-logo="https://i.postimg.cc/6QrLHv9R/Romance-TV-2015.jpg" group-title="Movies&Series",Romance TV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6211
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6211
 #EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal" tvg-logo="https://i.postimg.cc/MKJVvY1S/Heimatkanal.png" group-title="Movies&Series",Sky Heimat Kanal
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/678481
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/678481
 #EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal" tvg-logo="https://i.postimg.cc/MKJVvY1S/Heimatkanal.png" group-title="Movies&Series",Sky Heimat Kanal
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6188
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6188
 #EXTINF:-1 tvg-id="ServusTV Deutschland" tvg-name="Servus TV" tvg-logo="https://i.postimg.cc/NGDBHsHj/ServusTV.jpg" group-title="Movies&Series",Servus TV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6208
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6208
 #EXTINF:-1 tvg-id="" tvg-name="FilMax Hits HD VIP" tvg-logo="https://i.postimg.cc/02kgYMnj/FMax.png" group-title="Movies&Series",FilMax Hits HD VIP
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/688717
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/688717
 #EXTINF:-1 tvg-id="" tvg-name="Genius Family" tvg-logo="https://i.postimg.cc/kGsb00Gv/Genius-Family.jpg" group-title="Movies&Series",Genius Family
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/690457
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/690457
 #EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action HD" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky-Cinema-Action-2020.png" group-title="Movies&Series",Sky Cinema Action HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5093
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5093
 #EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name=" Sky Cinema Action" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky-Cinema-Action-2020.png" group-title="Movies&Series", Sky Cinema Action
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6205
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6205
 #EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special HD" tvg-logo="https://i.postimg.cc/ZRgf3zpW/Sky-Cinema-Special-2020.png" group-title="Movies&Series",Sky Cinema Special HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8217
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8217
 #EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special" tvg-logo="https://i.postimg.cc/ZRgf3zpW/Sky-Cinema-Special-2020.png" group-title="Movies&Series",Sky Cinema Special
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6252
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6252
 #EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Movies&Series",Sky Cinema Thriller HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5089
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5089
 #EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Movies&Series",Sky Cinema Thriller
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7372
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7372
 #EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Movies&Series",Sky Cinema Thriller
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6193
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6193
 #EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren HD" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6194
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6194
 #EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7373
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7373
 #EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 HD" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren +24 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6192
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6192
 #EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren +24
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13133
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13133
 #EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky_Cinema_Action_2020.png" group-title="Movies&Series",Sky Cinema Action
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9146
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9146
 #EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun" tvg-logo="https://i.postimg.cc/wMg9zhzz/Sky-Cinema-Fun-2020.png" group-title="Movies&Series",Sky Cinema Fun
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9144
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9144
 #EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun" tvg-logo="https://i.postimg.cc/wMg9zhzz/Sky-Cinema-Fun-2020.png" group-title="Movies&Series",Sky Cinema Fun
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6190
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6190
 #EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of HD" tvg-logo="https://i.postimg.cc/QxrZRgbn/Sky-Cinema-Best-Of-2020.png" group-title="Movies&Series",Sky Cinema Best Of HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7368
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7368
 #EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best Of" tvg-logo="https://i.postimg.cc/QxrZRgbn/Sky-Cinema-Best-Of-2020.png" group-title="Movies&Series",Sky Cinema Best Of
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8223
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8223
 #EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family HD" tvg-logo="https://i.postimg.cc/TYy1c2Vv/Sky_Cinema_Family_2020.png" group-title="Movies&Series",Sky Cinema Family HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9145
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9145
 #EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family" tvg-logo="https://i.postimg.cc/TYy1c2Vv/Sky_Cinema_Family_2020.png" group-title="Movies&Series",Sky Cinema Family
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7369
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7369
 #EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics" tvg-logo="https://i.postimg.cc/MZmNr1Yy/Sky-Cinema-Classics-2020.png" group-title="Movies&Series",Sky Cinema Classics
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13131
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13131
 #EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics" tvg-logo="https://i.postimg.cc/MZmNr1Yy/Sky-Cinema-Classics-2020.png" group-title="Movies&Series",Sky Cinema Classics
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6186
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6186
 #EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best of" tvg-logo="http://pici.life/skycinemahits.png" group-title="Movies&Series",Sky Cinema Best of
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5088
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5088
 #EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="Sky Cinema Comedy VIP" tvg-logo="https://i.postimg.cc/mrHMqGV9/Sky-Comedy-logo.png" group-title="Movies&Series",Sky Cinema Comedy VIP
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/688822
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/688822
 #EXTINF:-1 tvg-id="skycrimehd.de" tvg-name=" Sky Krimi VIP" tvg-logo="https://i.postimg.cc/tJWxT0Y6/Sky-Krimi-2020.jpg" group-title="Movies&Series", Sky Krimi VIP
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/688821
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/688821
 #EXTINF:-1 tvg-id="skykrimi.de" tvg-name="Sky Krimi" tvg-logo="https://i.postimg.cc/tJWxT0Y6/Sky-Krimi-2020.jpg" group-title="Movies&Series",Sky Krimi
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8220
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8220
 #EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Movies&Series",Sky Atlantic
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7367
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7367
 #EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Movies&Series",Sky Atlantic
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6204
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6204
 #EXTINF:-1 tvg-id="sky1.de" tvg-name="Sky One HD" tvg-logo="https://i.postimg.cc/0jz3SjP3/Sky-One-2020.png" group-title="Movies&Series",Sky One HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9138
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9138
 #EXTINF:-1 tvg-id="fox.de" tvg-name="Sky Replay HD" tvg-logo="https://i.postimg.cc/J7g72BDs/SKYREPLAY.png" group-title="Movies&Series",Sky Replay HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/23770
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/23770
 #EXTINF:-1 tvg-id="fox.de" tvg-name="Sky Replay" tvg-logo="https://i.postimg.cc/J7g72BDs/SKYREPLAY.png" group-title="Movies&Series",Sky Replay
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6245
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6245
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Premiere HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Premiere HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/681946
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/681946
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Horror HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Horror HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/681942
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/681942
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Thriller HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Thriller HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/681950
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/681950
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Sci-Fi HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Sci-Fi HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/681949
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/681949
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Animation" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Animation
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/681939
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/681939
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Mythologie" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Mythologie
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/681945
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/681945
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Lächeln" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Lächeln
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/681944
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/681944
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Geschichte" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Geschichte
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/681941
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/681941
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Romantisch HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Romantisch HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/681948
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/681948
 #EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 1 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/655131
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/655131
 #EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7375
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7375
 #EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 2 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/655130
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/655130
 #EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 2
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7376
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7376
 #EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 3 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/655129
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/655129
 #EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 3
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7377
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7377
 #EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 4 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/655128
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/655128
 #EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 4
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7378
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7378
 #EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 5
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8977
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8977
 #EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 [demnächst]" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 5 [demnächst]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/655127
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/655127
 #EXTINF:-1 tvg-id="skyselect6.de" tvg-name="Sky Select 6" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 6
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8976
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8976
 #EXTINF:-1 tvg-id="skyselect7.de" tvg-name="Sky Select 7" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 7
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8975
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8975
 #EXTINF:-1 tvg-id="skyselect8.de" tvg-name="Sky Select 8" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Movies&Series",Sky Select 8
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8974
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8974
 #EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 1" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Movies&Series",PopCorn Select 1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/23778
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/23778
 #EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 HD" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Movies&Series",PopCorn Select 2 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683536
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683536
 #EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Movies&Series",PopCorn Select 2
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/23777
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/23777
 #EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 HD" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Movies&Series",PopCorn Select 3 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683537
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683537
 #EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Movies&Series",PopCorn Select 3
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/23776
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/23776
 #EXTINF:-1 tvg-id="skyselect6.de" tvg-name="PopCorn Select 4" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Movies&Series",PopCorn Select 4
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/23775
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/23775
 #EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 5" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Movies&Series",PopCorn Select 5
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683540
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683540
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema Boxset HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema Boxset HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683534
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683534
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema INFO HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema INFO HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683523
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683523
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema 1 HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema 1 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683535
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683535
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema 2" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema 2
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683525
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683525
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema 3 HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema 3 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683526
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683526
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema 4 HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema 4 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683527
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683527
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema 5" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema 5
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683528
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683528
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema 6 HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema 6 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683529
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683529
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema 7 HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema 7 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683530
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683530
 #EXTINF:-1 tvg-id="" tvg-name="HyperCinema 8 HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Movies&Series",HyperCinema 8 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683531
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683531
 
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Documentary ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Doku",✽✽⭒ Doku ⭒✽✽
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/678919
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/678919
 #EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF Info" tvg-logo="https://i.postimg.cc/28KnwfZ4/ZDFinfo-2011.jpg" group-title="Doku",ZDF Info
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9148
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9148
 #EXTINF:-1 tvg-id="n24doku.de" tvg-name="N24 Doku" tvg-logo="https://i.postimg.cc/s2FSk9Kx/N24-Doku.jpg" group-title="Doku",N24 Doku
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679837
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679837
 #EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel Eins Doku HD" tvg-logo="https://i.postimg.cc/jqkWV4ST/Kabel-eins-Doku.png" group-title="Doku",Kabel Eins Doku HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13147
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13147
 #EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="Kabel Eins Doku" tvg-logo="https://i.postimg.cc/jqkWV4ST/Kabel-eins-Doku.png" group-title="Doku",Kabel Eins Doku
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679843
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679843
 #EXTINF:-1 tvg-id="history.de" tvg-name="History Channel HD" tvg-logo="https://i.postimg.cc/0NckY96v/History.jpg" group-title="Doku",History Channel HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6244
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6244
 #EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte" tvg-logo="https://i.postimg.cc/gJ1nhG5J/Spiegel-Geschichte-2016.png" group-title="Doku",Spiegel Geschichte
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6174
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6174
 #EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="Spiegel TV Wissen" tvg-logo="https://i.postimg.cc/BQBnS5qt/Spiegel-TV-Wissen-2016.png" group-title="Doku",Spiegel TV Wissen
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9135
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9135
 #EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/W4nG0q64/Discovery-Channel-2019.jpg" group-title="Doku",Discovery HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13570
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13570
 #EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery" tvg-logo="https://i.postimg.cc/W4nG0q64/Discovery-Channel-2019.jpg" group-title="Doku",Discovery
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5096
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5096
 #EXTINF:-1 tvg-id="planet.de" tvg-name="Bergblick" tvg-logo="https://i.postimg.cc/bwRg95q8/Bergblick-logo.jpg" group-title="Doku",Bergblick
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679846
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679846
 #EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/tCQzQbTp/Animal_Planet_2018.jpg" group-title="Doku",Animal Planet HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8196
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8196
 #EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/tCQzQbTp/Animal_Planet_2018.jpg" group-title="Doku",Animal Planet
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13173
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13173
 #EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic" tvg-logo="https://i.postimg.cc/7LRqbmGM/National-Geographic-2008.jpg" group-title="Doku",National Geographic
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8194
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8194
 #EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic" tvg-logo="https://i.postimg.cc/7LRqbmGM/National-Geographic-2008.jpg" group-title="Doku",National Geographic
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6226
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6226
 #EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo wild HD" tvg-logo="https://i.postimg.cc/vBW5GP3D/National-Geographic-Wild-2018.jpg" group-title="Doku",Nat Geo wild HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6227
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6227
 #EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild" tvg-logo="https://i.postimg.cc/vBW5GP3D/National-Geographic-Wild-2018.jpg" group-title="Doku",Nat Geo Wild
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9136
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9136
 #EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Doku",Nat Geo Wild
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5085
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5085
 #EXTINF:-1 tvg-id="hgtv.de" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/wM2fjx0t/HGTV-2015-Blue.png" group-title="Doku",HGTV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/688723
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/688723
 #EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="Welt der Wunder" tvg-logo="https://i.postimg.cc/SN6nv2j7/welt-der-wunder.jpg" group-title="Doku",Welt der Wunder
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679838
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679838
 #EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="Welt der Wunder" tvg-logo="https://i.postimg.cc/SN6nv2j7/welt-der-wunder.jpg" group-title="Doku",Welt der Wunder
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13129
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13129
 #EXTINF:-1 tvg-id="anixe.de" tvg-name="Anixe" tvg-logo="https://i.postimg.cc/d04dS7HS/ANIXE.png" group-title="Doku",Anixe
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6264
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6264
 #EXTINF:-1 tvg-id="dmax.de" tvg-name="Dmax HD" tvg-logo="https://i.postimg.cc/Jz7j3cKB/DMAX-logo.png" group-title="Doku",Dmax HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6249
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6249
 #EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC" tvg-logo="https://i.postimg.cc/1znnMWF4/TLC.png" group-title="Doku",TLC
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8224
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8224
 #EXTINF:-1 tvg-id="arte.de" tvg-name="Sky Arte HD" tvg-logo="https://i.postimg.cc/NMXNh73j/Sky-Arte-2021.jpg" group-title="Doku",Sky Arte HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5091
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5091
 #EXTINF:-1 tvg-id="arte.de" tvg-name="Sky Arte" tvg-logo="https://i.postimg.cc/NMXNh73j/Sky-Arte-2021.jpg" group-title="Doku",Sky Arte
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9139
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9139
 #EXTINF:-1 tvg-id="arte.de" tvg-name="Sky Arte" tvg-logo="https://i.postimg.cc/NMXNh73j/Sky-Arte-2021.jpg" group-title="Doku",Sky Arte
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6261
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6261
 #EXTINF:-1 tvg-id="ardalpha.de" tvg-name="ARD Alpha" tvg-logo="https://i.postimg.cc/j5j7PsX0/ARD-alpha.jpg" group-title="Doku",ARD Alpha
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13171
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13171
 #EXTINF:-1 tvg-id="waidwerk.de" tvg-name="Waidwerk HD" tvg-logo="https://i.postimg.cc/dtDhqssg/waidwerk.jpg" group-title="Doku",Waidwerk HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/687566
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/687566
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ News ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Doku",✽✽⭒ News ⭒✽✽
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/678922
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/678922
 #EXTINF:-1 tvg-id="euronews.de" tvg-name="Euronews" tvg-logo="https://i.postimg.cc/524YZBHq/Euronews-2016.jpg" group-title="Doku",Euronews
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6248
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6248
 #EXTINF:-1 tvg-id="welt.de" tvg-name="Welt" tvg-logo="https://i.postimg.cc/gkr145sv/Welt.jpg" group-title="Doku",Welt
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6228
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6228
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV HD" tvg-logo="https://i.postimg.cc/pTFJpfJ5/N-tv-Logo-2017.png" group-title="Doku",N-TV HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13149
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13149
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV" tvg-logo="https://i.postimg.cc/pTFJpfJ5/N-tv-Logo-2017.png" group-title="Doku",N-TV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8195
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8195
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV" tvg-logo="https://i.postimg.cc/pTFJpfJ5/N-tv-Logo-2017.png" group-title="Doku",N-TV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13566
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13566
 #EXTINF:-1 tvg-id="munchentv.de" tvg-name="Munchen TV" tvg-logo="https://i.postimg.cc/hPPM0dS6/munchen.jpg" group-title="Doku",Munchen TV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6229
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6229
 #EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix" tvg-logo="https://i.postimg.cc/QtdwKnnY/Phoenix-2018.jpg" group-title="Doku",Phoenix
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6221
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6221
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://i.postimg.cc/KzgqTkyw/Tagesschau-2003.jpg" group-title="Doku",Tagesschau 24
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6163
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6163
 
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Children ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Kids",✽✽⭒ Kids ⭒✽✽
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/678923
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/678923
 #EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL HD" tvg-logo="https://i.postimg.cc/pLzKKf9D/Superrtl-orange-2019.png" group-title="Kids",Super RTL HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13554
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13554
 #EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL" tvg-logo="https://i.postimg.cc/pLzKKf9D/Superrtl-orange-2019.png" group-title="Kids",Super RTL
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6166
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6166
 #EXTINF:-1 tvg-id="kika.de" tvg-name="KiKa HD" tvg-logo="https://i.postimg.cc/7Lx6W068/Kika-2012.png" group-title="Kids",KiKa HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679839
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679839
 #EXTINF:-1 tvg-id="kika.de" tvg-name="Kika" tvg-logo="https://i.postimg.cc/7Lx6W068/Kika-2012.png" group-title="Kids",Kika
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6241
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6241
 #EXTINF:-1 tvg-id="babytv.de" tvg-name="Baby TV" tvg-logo="https://i.postimg.cc/FzjqJdQG/baby-tv.png" group-title="Kids",Baby TV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13169
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13169
 #EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus" tvg-logo="https://i.postimg.cc/zBY1Q1pL/Toggo-Plus.png" group-title="Kids",Toggo Plus
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/5086
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/5086
 #EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus" tvg-logo="https://i.postimg.cc/zBY1Q1pL/Toggo-Plus.png" group-title="Kids",Toggo Plus
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9133
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9133
 #EXTINF:-1 tvg-id="boomerang.de" tvg-name="Boomerang" tvg-logo="https://i.postimg.cc/yxPgdjWP/Boomerang-2015.jpg" group-title="Kids",Boomerang
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6258
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6258
 #EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="Cartoon Network HD" tvg-logo="https://i.postimg.cc/nzwVwWsN/Cartoon-Network-2010.jpg" group-title="Kids",Cartoon Network HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6257
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6257
 #EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel HD" tvg-logo="https://i.postimg.cc/sDMm8GLL/Disney-channel-2019.png" group-title="Kids",Disney Channel HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6253
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6253
 #EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="https://i.postimg.cc/SN8dk26t/Nickelodeon.png" group-title="Kids",Nickelodeon
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6224
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6224
 #EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="Fix & Foxi" tvg-logo="https://i.postimg.cc/vmvSMgsd/Fix-and-Fox-Channel-Logo.png" group-title="Kids",Fix & Foxi
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/23771
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/23771
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Music ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Kids",✽✽⭒ Music ⭒✽✽
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/678925
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/678925
 #EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="MTV HD" tvg-logo="https://i.postimg.cc/pV545dQK/MTV-2021.jpg" group-title="Kids",MTV HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/35466
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/35466
 #EXTINF:-1 tvg-id="vh1classic.de" tvg-name="MTV 80s" tvg-logo="https://i.postimg.cc/L6d7tMvw/Mtv-80s-logo.png" group-title="Kids",MTV 80s
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/638080
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/638080
 #EXTINF:-1 tvg-id="classica.de" tvg-name="Sky Classica" tvg-logo="https://i.postimg.cc/0NNHk52M/STINGRAY-CLASSICA.jpg" group-title="Kids",Sky Classica
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6191
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6191
 #EXTINF:-1 tvg-id="classica.de" tvg-name="Classica" tvg-logo="http://pici.life/DE/classica.png" group-title="Kids",Classica
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13167
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13167
 #EXTINF:-1 tvg-id="jukebox.de" tvg-name="Jukebox" tvg-logo="https://i.postimg.cc/L6MCq38M/Jukebox.png" group-title="Kids",Jukebox
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13148
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13148
 #EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="Deluxe Music" tvg-logo="https://i.postimg.cc/3x8t1rGS/DELUXE-MUSIC-Logo-2019.png" group-title="Kids",Deluxe Music
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6255
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6255
 #EXTINF:-1 tvg-id="" tvg-name="Kronehit HD" tvg-logo="https://i.postimg.cc/G2yKt402/kronehit.png" group-title="Kids",Kronehit HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/14200
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/14200
 #EXTINF:-1 tvg-id="deutschesmusikfernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://i.postimg.cc/W4sX9NJY/Deutsches-Musik-Fernsehen.jpg" group-title="Kids",Deutsches Musik Fernsehen
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13165
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13165
 
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Sports ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Sport",✽✽⭒ Sport ⭒✽✽
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/678834
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/678834
 #EXTINF:-1 tvg-id="skysportf1.de" tvg-name="Sky Sport F1 HD" tvg-logo="https://i.postimg.cc/bvMy7nRM/Sky-Sport-F1-2020.png" group-title="Sport",Sky Sport F1 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/687666
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/687666
 #EXTINF:-1 tvg-id="skysportf1.de" tvg-name="Sky Sport F1" tvg-logo="https://i.postimg.cc/bvMy7nRM/Sky-Sport-F1-2020.png" group-title="Sport",Sky Sport F1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/687667
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/687667
 #EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News HD" tvg-logo="https://i.postimg.cc/q7gnc8RZ/Sky-Sport-News-2020.png" group-title="Sport",Sky Sports News HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13555
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13555
 #EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News" tvg-logo="https://i.postimg.cc/q7gnc8RZ/Sky-Sport-News-2020.png" group-title="Sport",Sky Sports News
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/684431
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/684431
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 HD" tvg-logo="https://i.postimg.cc/bN8tVXrn/Sky-Sport-1-logo-2020.png" group-title="Sport",Sky Sport 1 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/684432
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/684432
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1" tvg-logo="https://i.postimg.cc/bN8tVXrn/Sky-Sport-1-logo-2020.png" group-title="Sport",Sky Sport 1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683895
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683895
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1" tvg-logo="https://i.postimg.cc/bN8tVXrn/Sky-Sport-1-logo-2020.png" group-title="Sport",Sky Sport 1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9125
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9125
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 [B]" tvg-logo="https://i.postimg.cc/bN8tVXrn/Sky-Sport-1-logo-2020.png" group-title="Sport",Sky Sport 1 [B]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/684429
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/684429
 #EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 HD" tvg-logo="https://i.postimg.cc/xTC01gF7/Sky-Sport-2-2020.png" group-title="Sport",Sky Sport 2 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/7362
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/7362
 #EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2" tvg-logo="https://i.postimg.cc/xTC01gF7/Sky-Sport-2-2020.png" group-title="Sport",Sky Sport 2
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683896
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683896
 #EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] HD" tvg-logo="https://i.postimg.cc/kG5dDXw8/Sky-Sport-3-2020.png" group-title="Sport",Sky Sport 3 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13563
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13563
 #EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time]" tvg-logo="https://i.postimg.cc/kG5dDXw8/Sky-Sport-3-2020.png" group-title="Sport",Sky Sport 3 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6182
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6182
 #EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 [Match Time] HD" tvg-logo="https://i.postimg.cc/MT27Wn6P/Sky-Sport-4-2020.png" group-title="Sport",Sky Sport 4 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13562
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13562
 #EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 [Match Time]" tvg-logo="https://i.postimg.cc/MT27Wn6P/Sky-Sport-4-2020.png" group-title="Sport",Sky Sport 4 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9127
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9127
 #EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 HD" tvg-logo="https://i.postimg.cc/RZ2fRWHS/Sky-Sport-5-2020.png" group-title="Sport",Sky Sport 5 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13561
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13561
 #EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 [Match Time] HD" tvg-logo="https://i.postimg.cc/RZ2fRWHS/Sky-Sport-5-2020.png" group-title="Sport",Sky Sport 5 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9126
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9126
 #EXTINF:-1 tvg-id="skysport6.de" tvg-name="Sky Sport 6 [Match Time]" tvg-logo="https://i.postimg.cc/SR7FZYsw/Sky-Sport-6.png" group-title="Sport",Sky Sport 6 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6181
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6181
 #EXTINF:-1 tvg-id="skysport7.de" tvg-name="Sky Sport 7 [Match Time]" tvg-logo="https://i.postimg.cc/vZSRSsYH/Sky-Sport-7.png" group-title="Sport",Sky Sport 7 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6180
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6180
 #EXTINF:-1 tvg-id="skysport8.de" tvg-name="Sky Sport 8 [Match Time]" tvg-logo="https://i.postimg.cc/9fqk8wgJ/Sky-Sport-8.png" group-title="Sport",Sky Sport 8 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6179
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6179
 #EXTINF:-1 tvg-id="skysport9.de" tvg-name="Sky Sport 9 [Match Time]" tvg-logo="https://i.postimg.cc/9FMJgqrZ/Sky-Sport-9.png" group-title="Sport",Sky Sport 9 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6178
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6178
 #EXTINF:-1 tvg-id="skysport10.de" tvg-name="Sky Sport 10 [Match Time]" tvg-logo="https://i.postimg.cc/mk6NW8tM/Sky-Sport-10.png" group-title="Sport",Sky Sport 10 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6177
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6177
 #EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 1 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/684430
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/684430
 #EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 1 [Match Time-B] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683408
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683408
 #EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 1 [Match Time-B]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/683409
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/683409
 #EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 1 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13538
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13538
 #EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 1 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/73136
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/73136
 #EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 1 [Match Time-B]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/684005
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/684005
 #EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 [Match Time] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 2 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/62223
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/62223
 #EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 [Match Time-B] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 2 [Match Time-B] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/135258
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/135258
 #EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 3 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/135671
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/135671
 #EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 3 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/62220
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/62220
 #EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 [Match Time] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 4 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/91235
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/91235
 #EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 5 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/135335
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/135335
 #EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 5 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/62002
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/62002
 #EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 [Match Time] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 6 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/619225
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/619225
 #EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 [Match Time]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 7 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6198
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6198
 #EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 [Match Time] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 8 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6197
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6197
 #EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 [Match Time]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 9 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6196
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6196
 #EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 [Match Time] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Sport",Sky Sport Bundesliga 10 [Match Time] HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6195
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6195
 #EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/LX9XqXcd/DAZN-2019-logo.jpg" group-title="Sport",DAZN 1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/625243
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/625243
 #EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DAZN 2" tvg-logo="https://i.postimg.cc/LX9XqXcd/DAZN-2019-logo.jpg" group-title="Sport",DAZN 2
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/50775
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/50775
 #EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 HD" tvg-logo="https://i.postimg.cc/m2P2L8PD/Sport1.jpg" group-title="Sport",Sport1 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6173
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6173
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1 " tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Sport",Sport1 
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8221
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8221
 #EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1" tvg-logo="https://i.postimg.cc/m2P2L8PD/Sport1.jpg" group-title="Sport",Sport1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8226
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8226
 #EXTINF:-1 tvg-id="sport1plus.de" tvg-name="Sport1+ HD" tvg-logo="https://i.postimg.cc/YC43xKhH/Sport1plus.jpg" group-title="Sport",Sport1+ HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679847
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679847
 #EXTINF:-1 tvg-id="sport1plus.de" tvg-name="Sport1+ [B]" tvg-logo="https://i.postimg.cc/YC43xKhH/Sport1plus.jpg" group-title="Sport",Sport1+ [B]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679848
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679848
 #EXTINF:-1 tvg-id="esports1.de" tvg-name="eSports 1" tvg-logo="https://i.postimg.cc/0QdR2Jsc/ESports1.jpg" group-title="Sport",eSports 1
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/687730
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/687730
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 1 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Fußball 1 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679821
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679821
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 2 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Fußball 2 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679822
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679822
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 3 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Fußball 3 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679823
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679823
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 4 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Fußball 4 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679824
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679824
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 5 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Fußball 5 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679825
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679825
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 6 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Fußball 6 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679826
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679826
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 7 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Fußball 7 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679827
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679827
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 8 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Fußball 8 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/688721
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/688721
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 1 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Eishockey 1 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679671
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679671
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 2 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Eishockey 2 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679672
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679672
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 3 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Eishockey 3 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679673
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679673
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 4 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Eishockey 4 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679676
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679676
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 1 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Basketball 1 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679674
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679674
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 2 [Match Time]" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Sport",Telekom Basketball 2 [Match Time]
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/679675
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/679675
 #EXTINF:-1 tvg-id="eurosport1.de" tvg-name="Eurosport 1 HD" tvg-logo="https://i.postimg.cc/Tw2tT1JX/Eurosport-1.jpg" group-title="Sport",Eurosport 1 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8218
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8218
 #EXTINF:-1 tvg-id="eurosport2.de" tvg-name="Eurosport 2 HD" tvg-logo="https://i.postimg.cc/pTdJg7PW/Eurosport-2.jpg" group-title="Sport",Eurosport 2 HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9131
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9131
 #EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="Eurosport 2 Xtra HD" tvg-logo="https://i.postimg.cc/pTdJg7PW/Eurosport-2.jpg" group-title="Sport",Eurosport 2 Xtra HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/13163
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13163
 #EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="Eurosport 2 Xtra" tvg-logo="https://i.postimg.cc/pTdJg7PW/Eurosport-2.jpg" group-title="Sport",Eurosport 2 Xtra
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9130
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9130
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital HD" tvg-logo="https://i.postimg.cc/BZT2m4TT/Sportdigital-tv-logo.jpg" group-title="Sport",Sport Digital HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8244
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8244
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital" tvg-logo="https://i.postimg.cc/BZT2m4TT/Sportdigital-tv-logo.jpg" group-title="Sport",Sport Digital
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/6171
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/6171
 #EXTINF:-1 tvg-id="motorvision.de" tvg-name="Motorvision" tvg-logo="https://i.postimg.cc/zvzvtZN7/Motorvision-TV-2009.jpg" group-title="Sport",Motorvision
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/8222
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/8222
 #EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport HD" tvg-logo="https://i.postimg.cc/nrhVK4Kw/Auto-Motor-und-Sport-Channel.png" group-title="Sport",Auto Motor Sport HD
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9132
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9132
 #EXTINF:-1 tvg-id="fcbayern.de" tvg-name="FC Bayern TV" tvg-logo="https://i.postimg.cc/JzNwnyZy/FC-Bayern.png" group-title="Sport",FC Bayern TV
-http://ipflix.click:8080/cdvycotklr/7a2ts4br3/9128
+http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/9128
