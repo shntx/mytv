@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DE: ard" tvg-name="Das Erste" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Hauptsender",Das Erste
+#EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="Das Erste" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Hauptsender",Das Erste
 http://ipflix.click:80/sq1x0qr86b/7777/13166
-#EXTINF:-1 tvg-id="DE: ard" tvg-name="Das Erste [B]" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Hauptsender",Das Erste [B]
+#EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="Das Erste [B]" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Hauptsender",Das Erste [B]
 http://ipflix.click:80/sq1x0qr86b/7777/6262
-#EXTINF:-1 tvg-id="DE: ard" tvg-name="Das Erste" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Hauptsender",Das Erste
+#EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="Das Erste" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Hauptsender",Das Erste
 http://ipflix.click:80/sq1x0qr86b/7777/6256
-#EXTINF:-1 tvg-id="DE: one" tvg-name="One" tvg-logo="https://i.postimg.cc/0j5SXKbW/One.png" group-title="Hauptsender",One
+#EXTINF:-1 tvg-id="DE: ONE" tvg-name="One" tvg-logo="https://i.postimg.cc/0j5SXKbW/One.png" group-title="Hauptsender",One
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-id="DE: zdf" tvg-name="ZDF HD" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Hauptsender",ZDF HD
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="ZDF HD" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Hauptsender",ZDF HD
 http://ipflix.click:80/sq1x0qr86b/7777/6151
-#EXTINF:-1 tvg-id="DE: zdf" tvg-name="ZDF" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Hauptsender",ZDF
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="ZDF" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Hauptsender",ZDF
 http://ipflix.click:80/sq1x0qr86b/7777/17011
-#EXTINF:-1 tvg-id="DE: zdfneo" tvg-name="ZDF Neo" tvg-logo="https://i.postimg.cc/RCY0f7BY/ZDFneo.jpg" group-title="Hauptsender",ZDF Neo
+#EXTINF:-1 tvg-id="DE: ZDFneo" tvg-name="ZDF Neo" tvg-logo="https://i.postimg.cc/RCY0f7BY/ZDFneo.jpg" group-title="Hauptsender",ZDF Neo
 http://ipflix.click:80/sq1x0qr86b/7777/17304
 #EXTINF:-1 tvg-id="DE: rtl" tvg-name="RTL HD" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Hauptsender",RTL HD
 http://ipflix.click:80/sq1x0qr86b/7777/13565
@@ -20,17 +20,17 @@ http://ipflix.click:80/sq1x0qr86b/7777/13565
 http://ipflix.click:80/sq1x0qr86b/7777/683243
 #EXTINF:-1 tvg-id="DE: rtl" tvg-name="RTL" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Hauptsender",RTL
 http://ipflix.click:80/sq1x0qr86b/7777/6216
-#EXTINF:-1 tvg-id="DE: sat1" tvg-name="Sat.1 HD" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1 HD
+#EXTINF:-1 tvg-id="DE: SAT.1" tvg-name="Sat.1 HD" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1 HD
 http://ipflix.click:80/sq1x0qr86b/7777/6210
-#EXTINF:-1 tvg-id="DE: sat1" tvg-name="Sat.1" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1
+#EXTINF:-1 tvg-id="DE: SAT.1" tvg-name="Sat.1" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1
 http://ipflix.click:80/sq1x0qr86b/7777/683455
-#EXTINF:-1 tvg-id="DE: pro7" tvg-name="ProSieben HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben HD
+#EXTINF:-1 tvg-id="DE: ProSieben" tvg-name="ProSieben HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben HD
 http://185.234.111.36:8003/play/a0b2/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1 tvg-id="DE: pro7" tvg-name="ProSieben [B] HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben [B] HD
+#EXTINF:-1 tvg-id="DE: ProSieben" tvg-name="ProSieben [B] HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben [B] HD
 http://ipflix.click:80/sq1x0qr86b/7777/8235
 #EXTINF:-1 tvg-id="DE: prosieben" tvg-name="ProSieben" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben
 http://ipflix.click:80/sq1x0qr86b/7777/683393
-#EXTINF:-1 tvg-id="DE: pro7" tvg-name="ProSieben [B]" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben [B]
+#EXTINF:-1 tvg-id="DE: ProSieben" tvg-name="ProSieben [B]" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben [B]
 http://ipflix.click:80/sq1x0qr86b/7777/13144
 #EXTINF:-1 tvg-id="DE: vox" tvg-name="VOX HD" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" group-title="Hauptsender",VOX HD
 http://ipflix.click:80/sq1x0qr86b/7777/13553
@@ -45,66 +45,66 @@ http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/436.m3u8
 #EXTINF:-1 tvg-id="DE: VOXup" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Hauptsender",VOXup [B3]
 plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://www.tvnow.de/live-tv/voxup&xdrm=True&xstat&xnormSD&xhighHD=https://plivenowusodash-a.akamaihd.net/live/voxuphdlive/voxuphdlive.isml/.mpd
 
-#EXTINF:-1 tvg-id="DE: kabel eins" tvg-name="Kabel 1" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" group-title="Hauptsender",Kabel 1 HD
+#EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="Kabel 1" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" group-title="Hauptsender",Kabel 1 HD
 http://ipflix.click:80/sq1x0qr86b/7777/6242
-#EXTINF:-1 tvg-id="DE: kabeleinsclassic" tvg-name="Kabel 1 Classic" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Hauptsender",Kabel 1 Classic
+#EXTINF:-1 tvg-id="DE: Kabel Eins CLASSICS" tvg-name="Kabel 1 Classic" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Hauptsender",Kabel 1 Classic
 http://ipflix.click:80/sq1x0qr86b/7777/9151
-#EXTINF:-1 tvg-id="DE: kabeleinsclassic" tvg-name="Kabel 1 Classic" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Hauptsender",Kabel 1 Classic
+#EXTINF:-1 tvg-id="DE: Kabel Eins CLASSICS" tvg-name="Kabel 1 Classic" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Hauptsender",Kabel 1 Classic
 http://ipflix.click:80/sq1x0qr86b/7777/679844
-#EXTINF:-1 tvg-id="DE: rtl2" tvg-name="RTL 2 HD" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Hauptsender",RTL 2 HD
+#EXTINF:-1 tvg-id="DE: RTL ZWEI" tvg-name="RTL 2 HD" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Hauptsender",RTL 2 HD
 http://ipflix.click:80/sq1x0qr86b/7777/6215
-#EXTINF:-1 tvg-id="DE: rtl2" tvg-name="RTL 2" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Hauptsender",RTL 2
+#EXTINF:-1 tvg-id="DE: RTL ZWEI" tvg-name="RTL 2" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Hauptsender",RTL 2
 http://ipflix.click:80/sq1x0qr86b/7777/13136
-#EXTINF:-1 tvg-id="DE: rtlnitro" tvg-name="RTL Nitro HD" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Hauptsender",RTL Nitro HD
+#EXTINF:-1 tvg-id="DE: NITRO" tvg-name="RTL Nitro HD" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Hauptsender",RTL Nitro HD
 http://ipflix.click:80/sq1x0qr86b/7777/6212
-#EXTINF:-1 tvg-id="DE: rtlnitro" tvg-name="RTL Nitro" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Hauptsender",RTL Nitro
+#EXTINF:-1 tvg-id="DE: NITRO" tvg-name="RTL Nitro" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Hauptsender",RTL Nitro
 http://ipflix.click:80/sq1x0qr86b/7777/13137
-#EXTINF:-1 tvg-id="DE: rtlpassion" tvg-name="RTL Passion HD" tvg-logo="http://pici.life/rtlpassion.png" group-title="Hauptsender",RTL Passion HD
+#EXTINF:-1 tvg-id="DE: RTL Passion" tvg-name="RTL Passion HD" tvg-logo="http://pici.life/rtlpassion.png" group-title="Hauptsender",RTL Passion HD
 http://ipflix.click:80/sq1x0qr86b/7777/8219
-#EXTINF:-1 tvg-id="DE: rtlplus" tvg-name="RTLup" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup
+#EXTINF:-1 tvg-id="DE: RTLup" tvg-name="RTLup" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup
 http://ipflix.click:80/sq1x0qr86b/7777/9152
-#EXTINF:-1 tvg-id="DE: rtlplus" tvg-name="RTLup [B]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup [B]
+#EXTINF:-1 tvg-id="DE: RTLup" tvg-name="RTLup [B]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup [B]
 http://45.12.1.14:80/ANlkz5365/doJEAs984/19655
-#EXTINF:-1 tvg-id="DE: rtlplus" tvg-name="RTLup [B2]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup [B2]
+#EXTINF:-1 tvg-id="DE: RTLup" tvg-name="RTLup [B2]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup [B2]
 http://185.236.229.20:9091/play/a004
-#EXTINF:-1 tvg-id="DE: rtlcrime" tvg-name="RTL Crime HD" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime HD
+#EXTINF:-1 tvg-id="DE: RTL Crime" tvg-name="RTL Crime HD" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime HD
 http://ipflix.click:80/sq1x0qr86b/7777/6214
-#EXTINF:-1 tvg-id="DE: rtlcrime" tvg-name="RTL Crime" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime
+#EXTINF:-1 tvg-id="DE: RTL Crime" tvg-name="RTL Crime" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime
 http://ipflix.click:80/sq1x0qr86b/7777/17012
-#EXTINF:-1 tvg-id="DE: Crime + Investigation" tvg-name="Crime & Investigation HD" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation HD
+#EXTINF:-1 tvg-id="DE: Crime &amp; Investigation" tvg-name="Crime & Investigation HD" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation HD
 http://ipflix.click:80/sq1x0qr86b/7777/6263
-#EXTINF:-1 tvg-id="DE: Crime + Investigation" tvg-name="Crime & Investigation" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation
+#EXTINF:-1 tvg-id="DE: Crime &amp; Investigation" tvg-name="Crime & Investigation" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation
 http://ipflix.click:80/sq1x0qr86b/7777/8197
-#EXTINF:-1 tvg-id="DE: rtlliving" tvg-name="RTL Living HD" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Hauptsender",RTL Living HD
+#EXTINF:-1 tvg-id="DE: RTL Living" tvg-name="RTL Living HD" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Hauptsender",RTL Living HD
 http://ipflix.click:80/sq1x0qr86b/7777/6150
-#EXTINF:-1 tvg-id="DE: rtlliving" tvg-name="RTL Living" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Hauptsender",RTL Living
+#EXTINF:-1 tvg-id="DE: RTL Living" tvg-name="RTL Living" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Hauptsender",RTL Living
 http://ipflix.click:80/sq1x0qr86b/7777/6213
 #EXTINF:-1 tvg-id="DE: SAT.1 emotions" tvg-name="Sat1 Emotions" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" group-title="Hauptsender",Sat1 Emotion
 http://ipflix.click:80/sq1x0qr86b/7777/13135
-#EXTINF:-1 tvg-id="DE: sat1gold" tvg-name="Sat1 Gold HD" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD
+#EXTINF:-1 tvg-id="DE: SAT.1 GOLD" tvg-name="Sat1 Gold HD" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD
 http://212.18.115.193:3549/play/a00y/index.m3u8 
-#EXTINF:-1 tvg-id="DE: sat1gold" tvg-name="Sat1 Gold HD [B]" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD [B]
+#EXTINF:-1 tvg-id="DE: SAT.1 GOLD" tvg-name="Sat1 Gold HD [B]" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD [B]
 http://2022spn.net:8080/miguelangel/21041978/5245
 
-#EXTINF:-1 tvg-id="DE: prosiebenfun" tvg-name="ProSieben Fun HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
+#EXTINF:-1 tvg-id="DE: ProSieben FUN" tvg-name="ProSieben Fun HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
 http://ipflix.click:80/sq1x0qr86b/7777/6219
-#EXTINF:-1 tvg-id="DE: prosiebenfun" tvg-name="ProSieben Fun HD [B]" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
+#EXTINF:-1 tvg-id="DE: ProSieben FUN" tvg-name="ProSieben Fun HD [B]" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLyVOCr7dTH12oCSUzMpxj0/ts
-#EXTINF:-1 tvg-id="DE: prosiebenfun" tvg-name="ProSieben Fun" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun
+#EXTINF:-1 tvg-id="DE: ProSieben FUN" tvg-name="ProSieben Fun" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun
 http://ipflix.click:80/sq1x0qr86b/7777/13145
-#EXTINF:-1 tvg-id="DE: prosiebenfun" tvg-name="ProSieben Fun [B]" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun [B]
+#EXTINF:-1 tvg-id="DE: ProSieben FUN" tvg-name="ProSieben Fun [B]" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun [B]
 http://ipflix.click:80/sq1x0qr86b/7777/13142
-#EXTINF:-1 tvg-id="DE: prosiebenmaxx" tvg-name="ProSieben Maxx HD" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Hauptsender",ProSieben Maxx HD
+#EXTINF:-1 tvg-id="DE: ProSieben MAXX" tvg-name="ProSieben Maxx HD" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Hauptsender",ProSieben Maxx HD
 http://ipflix.click:80/sq1x0qr86b/7777/6218
-#EXTINF:-1 tvg-id="DE: prosiebenmaxx" tvg-name="ProSieben Maxx" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Hauptsender",ProSieben Maxx
+#EXTINF:-1 tvg-id="DE: ProSieben MAXX" tvg-name="ProSieben Maxx" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Hauptsender",ProSieben Maxx
 http://ipflix.click:80/sq1x0qr86b/7777/683394
-#EXTINF:-1 tvg-id="DE: prosiebenmaxx" tvg-name="Pro Sieben Maxx" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Hauptsender",Pro Sieben Maxx
+#EXTINF:-1 tvg-id="DE: ProSieben MAXX" tvg-name="Pro Sieben Maxx" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Hauptsender",Pro Sieben Maxx
 http://ipflix.click:80/sq1x0qr86b/7777/13143
-#EXTINF:-1 tvg-id="DE: prosiebenmaxx" tvg-name="Pro Sieben Maxx HD" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Hauptsender",Pro Sieben Maxx HD
+#EXTINF:-1 tvg-id="DE: ProSieben MAXX" tvg-name="Pro Sieben Maxx HD" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Hauptsender",Pro Sieben Maxx HD
 http://ipflix.click:80/sq1x0qr86b/7777/8234
-#EXTINF:-1 tvg-id="DE: sixx" tvg-name="Sixx HD" tvg-logo="https://i.postimg.cc/66rT1x4k/Sixx.png" group-title="Hauptsender",Sixx HD
+#EXTINF:-1 tvg-id="DE: SIXX" tvg-name="Sixx HD" tvg-logo="https://i.postimg.cc/66rT1x4k/Sixx.png" group-title="Hauptsender",Sixx HD
 http://ipflix.click:80/sq1x0qr86b/7777/6207
-#EXTINF:-1 tvg-id="DE: tele5" tvg-name="Tele 5" tvg-logo="https://i.postimg.cc/43PB1SbV/Tele-5-2021.png" group-title="Hauptsender",Tele 5
+#EXTINF:-1 tvg-id="DE: TELE 5" tvg-name="Tele 5" tvg-logo="https://i.postimg.cc/43PB1SbV/Tele-5-2021.png" group-title="Hauptsender",Tele 5
 http://ipflix.click:80/sq1x0qr86b/7777/9150
 #EXTINF:-1 tvg-id="DE: srf1.ch" tvg-name="SRF 1" tvg-logo="https://i.postimg.cc/GtHQrM2f/SRF1.png" group-title="Hauptsender",SRF 1
 http://ipflix.click:80/sq1x0qr86b/7777/6170
@@ -114,21 +114,21 @@ http://ipflix.click:80/sq1x0qr86b/7777/6238
 http://ipflix.click:80/sq1x0qr86b/7777/16289
 #EXTINF:-1 tvg-id="DE: 3sat" tvg-name="3sat" tvg-logo="https://i.postimg.cc/C5QmNvNd/3sat-2019.jpg" group-title="Hauptsender",3sat
 http://ipflix.click:80/sq1x0qr86b/7777/6265
-#EXTINF:-1 tvg-id="DE: ndr" tvg-name="NDR" tvg-logo="https://i.postimg.cc/L8fNt3Z6/NDR.jpg" group-title="Hauptsender",NDR
+#EXTINF:-1 tvg-id="DE: NDR Hamburgr" tvg-name="NDR" tvg-logo="https://i.postimg.cc/L8fNt3Z6/NDR.jpg" group-title="Hauptsender",NDR
 http://ipflix.click:80/sq1x0qr86b/7777/6225
-#EXTINF:-1 tvg-id="DE: hr" tvg-name="HR HD" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Hauptsender",HR HD
+#EXTINF:-1 tvg-id="DE: HR" tvg-name="HR HD" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Hauptsender",HR HD
 http://ipflix.click:80/sq1x0qr86b/7777/13150
-#EXTINF:-1 tvg-id="DE: hr" tvg-name="HR" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Hauptsender",HR
+#EXTINF:-1 tvg-id="DE: HR" tvg-name="HR" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Hauptsender",HR
 http://ipflix.click:80/sq1x0qr86b/7777/6243
-#EXTINF:-1 tvg-id="DE: rbb" tvg-name="RBB Berlin" tvg-logo="https://i.postimg.cc/J0z1fQkb/RBB-Fernsehen-2017.png" group-title="Hauptsender",RBB Berlin
+#EXTINF:-1 tvg-id="DE: rbb Berlin" tvg-name="RBB Berlin" tvg-logo="https://i.postimg.cc/J0z1fQkb/RBB-Fernsehen-2017.png" group-title="Hauptsender",RBB Berlin
 http://ipflix.click:80/sq1x0qr86b/7777/6217
-#EXTINF:-1 tvg-id="DE: br" tvg-name="BR" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Hauptsender",BR
+#EXTINF:-1 tvg-id="DE: BR" tvg-name="BR" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Hauptsender",BR
 http://ipflix.click:80/sq1x0qr86b/7777/687568
-#EXTINF:-1 tvg-id="DE: br" tvg-name="BR" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Hauptsender",BR
+#EXTINF:-1 tvg-id="DE: BR" tvg-name="BR" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Hauptsender",BR
 http://ipflix.click:80/sq1x0qr86b/7777/13168
 #EXTINF:-1 tvg-id="DE: swrsr" tvg-name="SWR" tvg-logo="https://i.postimg.cc/NfWcDtp8/SWR-Fernsehen.jpg" group-title="Hauptsender",SWR
 http://ipflix.click:80/sq1x0qr86b/7777/6165
-#EXTINF:-1 tvg-id="DE: wdr" tvg-name="WDR" tvg-logo="https://i.postimg.cc/Kjwd07rc/WDR-2012.jpg" group-title="Hauptsender",WDR
+#EXTINF:-1 tvg-id="DE: WDR Bonn">" tvg-name="WDR" tvg-logo="https://i.postimg.cc/Kjwd07rc/WDR-2012.jpg" group-title="Hauptsender",WDR
 http://ipflix.click:80/sq1x0qr86b/7777/6152
 #EXTINF:-1 tvg-id="DE: Franken Fernsehen" tvg-name="Franken Fernsehen HD" tvg-logo="https://i.postimg.cc/Z54h2Hz0/Franken-Fernsehen.jpg" group-title="Hauptsender",Franken Fernsehen HD
 http://ipflix.click:80/sq1x0qr86b/7777/677835
@@ -167,19 +167,19 @@ http://ipflix.click:80/sq1x0qr86b/7777/7364
 http://ipflix.click:80/sq1x0qr86b/7777/5087
 #EXTINF:-1 tvg-id="DE: syfy" tvg-name="Syfy" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Movies&Series",Syfy
 http://ipflix.click:80/sq1x0qr86b/7777/6164
-#EXTINF:-1 tvg-id="DE: TNT Comedy" tvg-name="WarnerTV Comedy HD" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy HD
+#EXTINF:-1 tvg-id="DE: Warner TV Comedy" tvg-name="WarnerTV Comedy HD" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy HD
 http://ipflix.click:80/sq1x0qr86b/7777/6157
-#EXTINF:-1 tvg-id="DE: TNT Comedy" tvg-name="WarnerTV Comedy" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy
+#EXTINF:-1 tvg-id="DE: Warner TV Comedy" tvg-name="WarnerTV Comedy" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy
 http://ipflix.click:80/sq1x0qr86b/7777/687541
-#EXTINF:-1 tvg-id="DE: TNT Film" tvg-name="WarnerTV Film HD" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film HD
+#EXTINF:-1 tvg-id="DE: Warner TV Film" tvg-name="WarnerTV Film HD" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film HD
 http://ipflix.click:80/sq1x0qr86b/7777/6156
-#EXTINF:-1 tvg-id="DE: TNT Film" tvg-name="WarnerTV Film" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film
+#EXTINF:-1 tvg-id="DE: Warner TV Film" tvg-name="WarnerTV Film" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film
 http://ipflix.click:80/sq1x0qr86b/7777/683894
-#EXTINF:-1 tvg-id="DE: TNT Serie" tvg-name="WarnerTV Serie HD" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie HD
+#EXTINF:-1 tvg-id="DE: Warner TV Serie" tvg-name="WarnerTV Serie HD" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie HD
 http://ipflix.click:80/sq1x0qr86b/7777/5084
-#EXTINF:-1 tvg-id="DE: TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
+#EXTINF:-1 tvg-id="DE: Warner TV Serie" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
 http://ipflix.click:80/sq1x0qr86b/7777/6155
-#EXTINF:-1 tvg-id="DE: TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
+#EXTINF:-1 tvg-id="DE: Warner TV Serie" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
 http://ipflix.click:80/sq1x0qr86b/7777/13154
 #EXTINF:-1 tvg-id="DE: Universal TV" tvg-name="Universal HD" tvg-logo="https://i.postimg.cc/mrVqXDNd/Universal-TV-logo.png" group-title="Movies&Series",Universal HD
 http://ipflix.click:80/sq1x0qr86b/7777/5265
@@ -382,9 +382,9 @@ http://ipflix.click:80/sq1x0qr86b/7777/9136
 http://ipflix.click:80/sq1x0qr86b/7777/5085
 #EXTINF:-1 tvg-id="DE: hgtv" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/wM2fjx0t/HGTV-2015-Blue.png" group-title="Doku",HGTV
 http://ipflix.click:80/sq1x0qr86b/7777/688723
-#EXTINF:-1 tvg-id="DE: weltderwunder" tvg-name="Welt der Wunder" tvg-logo="https://i.postimg.cc/SN6nv2j7/welt-der-wunder.jpg" group-title="Doku",Welt der Wunder
+#EXTINF:-1 tvg-id="DE: Welt der Wunder" tvg-name="Welt der Wunder" tvg-logo="https://i.postimg.cc/SN6nv2j7/welt-der-wunder.jpg" group-title="Doku",Welt der Wunder
 http://ipflix.click:80/sq1x0qr86b/7777/679838
-#EXTINF:-1 tvg-id="DE: weltderwunder" tvg-name="Welt der Wunder" tvg-logo="https://i.postimg.cc/SN6nv2j7/welt-der-wunder.jpg" group-title="Doku",Welt der Wunder
+#EXTINF:-1 tvg-id="DE: Welt der Wunder" tvg-name="Welt der Wunder" tvg-logo="https://i.postimg.cc/SN6nv2j7/welt-der-wunder.jpg" group-title="Doku",Welt der Wunder
 http://ipflix.click:80/sq1x0qr86b/7777/13129
 #EXTINF:-1 tvg-id="DE: anixe" tvg-name="Anixe" tvg-logo="https://i.postimg.cc/d04dS7HS/ANIXE.png" group-title="Doku",Anixe
 http://ipflix.click:80/sq1x0qr86b/7777/6264
