@@ -45,7 +45,7 @@ http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/436.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Hauptsender",VOXup [B3]
 plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://www.tvnow.de/live-tv/voxup&xdrm=True&xstat&xnormSD&xhighHD=https://plivenowusodash-a.akamaihd.net/live/voxuphdlive/voxuphdlive.isml/.mpd
 
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel 1 HD" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" group-title="Hauptsender",Kabel 1 HD
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="Kabel 1" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" group-title="Hauptsender",Kabel 1 HD
 http://ipflix.click:80/sq1x0qr86b/7777/6242
 #EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Hauptsender",Kabel 1 Classic
 http://ipflix.click:80/sq1x0qr86b/7777/9151
@@ -71,15 +71,15 @@ http://185.236.229.20:9091/play/a004
 http://ipflix.click:80/sq1x0qr86b/7777/6214
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime
 http://ipflix.click:80/sq1x0qr86b/7777/17012
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation HD" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation HD
+#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime & Investigation HD" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation HD
 http://ipflix.click:80/sq1x0qr86b/7777/6263
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation
+#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime & Investigation" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Hauptsender",Crime & Investigation
 http://ipflix.click:80/sq1x0qr86b/7777/8197
 #EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Hauptsender",RTL Living HD
 http://ipflix.click:80/sq1x0qr86b/7777/6150
 #EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Hauptsender",RTL Living
 http://ipflix.click:80/sq1x0qr86b/7777/6213
-#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat1 Emotion" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" group-title="Hauptsender",Sat1 Emotion
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="Sat1 Emotions" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" group-title="Hauptsender",Sat1 Emotion
 http://ipflix.click:80/sq1x0qr86b/7777/13135
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold HD" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD
 http://212.18.115.193:3549/play/a00y/index.m3u8 
@@ -145,11 +145,11 @@ http://ipflix.click:80/sq1x0qr86b/7777/13130
 
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Movies & Series ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Movies&Series",✽✽⭒ Movies&Series ⭒✽✽
 http://ipflix.click:80/sq1x0qr86b/7777/678836
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street HD" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Movies&Series",Sky 13TH Street HD
+#EXTINF:-1 tvg-id="13th Street" tvg-name="Sky 13TH Street HD" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Movies&Series",Sky 13TH Street HD
 http://ipflix.click:80/sq1x0qr86b/7777/5098
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Movies&Series",Sky 13TH Street
+#EXTINF:-1 tvg-id="13th Street" tvg-name="Sky 13TH Street" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Movies&Series",Sky 13TH Street
 http://ipflix.click:80/sq1x0qr86b/7777/7365
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street [B]" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Movies&Series",Sky 13TH Street [B]
+#EXTINF:-1 tvg-id="13th Street" tvg-name="Sky 13TH Street [B]" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Movies&Series",Sky 13TH Street [B]
 http://ipflix.click:80/sq1x0qr86b/7777/8198
 #EXTINF:-1 tvg-id="axn.de" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/k4PXf2T0/AXN.jpg" group-title="Movies&Series",AXN HD
 http://ipflix.click:80/sq1x0qr86b/7777/5097
@@ -159,35 +159,35 @@ http://ipflix.click:80/sq1x0qr86b/7777/13569
 http://ipflix.click:80/sq1x0qr86b/7777/9137
 #EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/Ls8g9HRK/E-entertainment.jpg" group-title="Germany",E! Entertainment
 http://ipflix.click:80/sq1x0qr86b/7777/5095
-#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN" tvg-logo="https://i.postimg.cc/k4PXf2T0/AXN.jpg" group-title="Movies&Series",AXN
+#EXTINF:-1 tvg-id="Sony AXN" tvg-name="AXN" tvg-logo="https://i.postimg.cc/k4PXf2T0/AXN.jpg" group-title="Movies&Series",AXN
 http://ipflix.click:80/sq1x0qr86b/7777/6259
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy HD" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Movies&Series",Syfy HD
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Movies&Series",Syfy HD
 http://ipflix.click:80/sq1x0qr86b/7777/7364
 #EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Movies&Series",Syfy
 http://ipflix.click:80/sq1x0qr86b/7777/5087
 #EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Movies&Series",Syfy
 http://ipflix.click:80/sq1x0qr86b/7777/6164
-#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WarnerTV Comedy HD" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy HD
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="WarnerTV Comedy HD" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy HD
 http://ipflix.click:80/sq1x0qr86b/7777/6157
-#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WarnerTV Comedy" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="WarnerTV Comedy" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Movies&Series",WarnerTV Comedy
 http://ipflix.click:80/sq1x0qr86b/7777/687541
-#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="WarnerTV Film HD" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film HD
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="WarnerTV Film HD" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film HD
 http://ipflix.click:80/sq1x0qr86b/7777/6156
-#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="WarnerTV Film" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="WarnerTV Film" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Movies&Series",WarnerTV Film
 http://ipflix.click:80/sq1x0qr86b/7777/683894
-#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie HD" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie HD
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="WarnerTV Serie HD" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie HD
 http://ipflix.click:80/sq1x0qr86b/7777/5084
-#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
 http://ipflix.click:80/sq1x0qr86b/7777/6155
-#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Movies&Series",WarnerTV Serie
 http://ipflix.click:80/sq1x0qr86b/7777/13154
-#EXTINF:-1 tvg-id="universal.de" tvg-name="Universal HD" tvg-logo="https://i.postimg.cc/mrVqXDNd/Universal-TV-logo.png" group-title="Movies&Series",Universal HD
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal HD" tvg-logo="https://i.postimg.cc/mrVqXDNd/Universal-TV-logo.png" group-title="Movies&Series",Universal HD
 http://ipflix.click:80/sq1x0qr86b/7777/5265
 #EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="Sony Channel" tvg-logo="https://i.postimg.cc/kXnTZ9Gz/Sony-Channel-2019.png" group-title="Movies&Series",Sony Channel
 http://ipflix.click:80/sq1x0qr86b/7777/6167
-#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt HD" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" group-title="Movies&Series",Kinowelt HD
+#EXTINF:-1 tvg-id="Kinowelt" tvg-name="Kinowelt HD" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" group-title="Movies&Series",Kinowelt HD
 http://ipflix.click:80/sq1x0qr86b/7777/6240
-#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" group-title="Movies&Series",Kinowelt
+#EXTINF:-1 tvg-id="Kinowelt" tvg-name="Kinowelt" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" group-title="Movies&Series",Kinowelt
 http://ipflix.click:80/sq1x0qr86b/7777/672086
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/KzgFSxHn/Comedy-Central-2018.jpg" group-title="Movies&Series",Comedy Central HD
 http://ipflix.click:80/sq1x0qr86b/7777/6154
@@ -205,63 +205,65 @@ http://ipflix.click:80/sq1x0qr86b/7777/6208
 http://ipflix.click:80/sq1x0qr86b/7777/688717
 #EXTINF:-1 tvg-id="" tvg-name="Genius Family" tvg-logo="https://i.postimg.cc/kGsb00Gv/Genius-Family.jpg" group-title="Movies&Series",Genius Family
 http://ipflix.click:80/sq1x0qr86b/7777/690457
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action HD" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky-Cinema-Action-2020.png" group-title="Movies&Series",Sky Cinema Action HD
+#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action HD" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky-Cinema-Action-2020.png" group-title="Movies&Series",Sky Cinema Action HD
 http://ipflix.click:80/sq1x0qr86b/7777/5093
 #EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name=" Sky Cinema Action" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky-Cinema-Action-2020.png" group-title="Movies&Series", Sky Cinema Action
 http://ipflix.click:80/sq1x0qr86b/7777/6205
 #EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special HD" tvg-logo="https://i.postimg.cc/ZRgf3zpW/Sky-Cinema-Special-2020.png" group-title="Movies&Series",Sky Cinema Special HD
 http://ipflix.click:80/sq1x0qr86b/7777/8217
-#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special" tvg-logo="https://i.postimg.cc/ZRgf3zpW/Sky-Cinema-Special-2020.png" group-title="Movies&Series",Sky Cinema Special
+#EXTINF:-1 tvg-id="Sky Cinema Special HD" tvg-name="Sky Cinema Special" tvg-logo="https://i.postimg.cc/ZRgf3zpW/Sky-Cinema-Special-2020.png" group-title="Movies&Series",Sky Cinema Special
 http://ipflix.click:80/sq1x0qr86b/7777/6252
 #EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Movies&Series",Sky Cinema Thriller HD
 http://ipflix.click:80/sq1x0qr86b/7777/5089
-#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Movies&Series",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="Sky Cinema Thriller HD" tvg-name="Sky Cinema Thriller" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Movies&Series",Sky Cinema Thriller
 http://ipflix.click:80/sq1x0qr86b/7777/7372
-#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Movies&Series",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="Sky Cinema Thriller HD" tvg-name="Sky Cinema Thriller" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Movies&Series",Sky Cinema Thriller
 http://ipflix.click:80/sq1x0qr86b/7777/6193
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren HD" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren HD
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren HD" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren HD
 http://ipflix.click:80/sq1x0qr86b/7777/6194
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren
 http://ipflix.click:80/sq1x0qr86b/7777/7373
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 HD" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren +24 HD
+#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="Sky Cinema Premieren +24 HD" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren +24 HD
 http://ipflix.click:80/sq1x0qr86b/7777/6192
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren +24
+#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="Sky Cinema Premieren +24" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Movies&Series",Sky Cinema Premieren +24
 http://ipflix.click:80/sq1x0qr86b/7777/13133
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky_Cinema_Action_2020.png" group-title="Movies&Series",Sky Cinema Action
+#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky_Cinema_Action_2020.png" group-title="Movies&Series",Sky Cinema Action
 http://ipflix.click:80/sq1x0qr86b/7777/9146
-#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun" tvg-logo="https://i.postimg.cc/wMg9zhzz/Sky-Cinema-Fun-2020.png" group-title="Movies&Series",Sky Cinema Fun
+#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="Sky Cinema Fun" tvg-logo="https://i.postimg.cc/wMg9zhzz/Sky-Cinema-Fun-2020.png" group-title="Movies&Series",Sky Cinema Fun
 http://ipflix.click:80/sq1x0qr86b/7777/9144
 #EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun" tvg-logo="https://i.postimg.cc/wMg9zhzz/Sky-Cinema-Fun-2020.png" group-title="Movies&Series",Sky Cinema Fun
 http://ipflix.click:80/sq1x0qr86b/7777/6190
-#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of HD" tvg-logo="https://i.postimg.cc/QxrZRgbn/Sky-Cinema-Best-Of-2020.png" group-title="Movies&Series",Sky Cinema Best Of HD
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" tvg-name="Sky Cinema Best Of HD" tvg-logo="https://i.postimg.cc/QxrZRgbn/Sky-Cinema-Best-Of-2020.png" group-title="Movies&Series",Sky Cinema Best Of HD
 http://ipflix.click:80/sq1x0qr86b/7777/7368
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" tvg-name="Sky Cinema Best of" tvg-logo="http://pici.life/skycinemahits.png" group-title="Movies&Series",Sky Cinema Best of
+http://ipflix.click:80/sq1x0qr86b/7777/5088
 #EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best Of" tvg-logo="https://i.postimg.cc/QxrZRgbn/Sky-Cinema-Best-Of-2020.png" group-title="Movies&Series",Sky Cinema Best Of
 http://ipflix.click:80/sq1x0qr86b/7777/8223
+
 #EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family HD" tvg-logo="https://i.postimg.cc/TYy1c2Vv/Sky_Cinema_Family_2020.png" group-title="Movies&Series",Sky Cinema Family HD
 http://ipflix.click:80/sq1x0qr86b/7777/9145
-#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family" tvg-logo="https://i.postimg.cc/TYy1c2Vv/Sky_Cinema_Family_2020.png" group-title="Movies&Series",Sky Cinema Family
+#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="Sky Cinema Family" tvg-logo="https://i.postimg.cc/TYy1c2Vv/Sky_Cinema_Family_2020.png" group-title="Movies&Series",Sky Cinema Family
 http://ipflix.click:80/sq1x0qr86b/7777/7369
 #EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics" tvg-logo="https://i.postimg.cc/MZmNr1Yy/Sky-Cinema-Classics-2020.png" group-title="Movies&Series",Sky Cinema Classics
 http://ipflix.click:80/sq1x0qr86b/7777/13131
 #EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics" tvg-logo="https://i.postimg.cc/MZmNr1Yy/Sky-Cinema-Classics-2020.png" group-title="Movies&Series",Sky Cinema Classics
 http://ipflix.click:80/sq1x0qr86b/7777/6186
-#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best of" tvg-logo="http://pici.life/skycinemahits.png" group-title="Movies&Series",Sky Cinema Best of
-http://ipflix.click:80/sq1x0qr86b/7777/5088
+
 #EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="Sky Cinema Comedy VIP" tvg-logo="https://i.postimg.cc/mrHMqGV9/Sky-Comedy-logo.png" group-title="Movies&Series",Sky Cinema Comedy VIP
 http://ipflix.click:80/sq1x0qr86b/7777/688822
 #EXTINF:-1 tvg-id="skycrimehd.de" tvg-name=" Sky Krimi VIP" tvg-logo="https://i.postimg.cc/tJWxT0Y6/Sky-Krimi-2020.jpg" group-title="Movies&Series", Sky Krimi VIP
 http://ipflix.click:80/sq1x0qr86b/7777/688821
 #EXTINF:-1 tvg-id="skykrimi.de" tvg-name="Sky Krimi" tvg-logo="https://i.postimg.cc/tJWxT0Y6/Sky-Krimi-2020.jpg" group-title="Movies&Series",Sky Krimi
 http://ipflix.click:80/sq1x0qr86b/7777/8220
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Movies&Series",Sky Atlantic
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Movies&Series",Sky Atlantic
 http://ipflix.click:80/sq1x0qr86b/7777/7367
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Movies&Series",Sky Atlantic
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Movies&Series",Sky Atlantic
 http://ipflix.click:80/sq1x0qr86b/7777/6204
-#EXTINF:-1 tvg-id="sky1.de" tvg-name="Sky One HD" tvg-logo="https://i.postimg.cc/0jz3SjP3/Sky-One-2020.png" group-title="Movies&Series",Sky One HD
+#EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One HD" tvg-logo="https://i.postimg.cc/0jz3SjP3/Sky-One-2020.png" group-title="Movies&Series",Sky One HD
 http://ipflix.click:80/sq1x0qr86b/7777/9138
-#EXTINF:-1 tvg-id="fox.de" tvg-name="Sky Replay HD" tvg-logo="https://i.postimg.cc/J7g72BDs/SKYREPLAY.png" group-title="Movies&Series",Sky Replay HD
+#EXTINF:-1 tvg-id="Sky Replay" tvg-name="Sky Replay HD" tvg-logo="https://i.postimg.cc/J7g72BDs/SKYREPLAY.png" group-title="Movies&Series",Sky Replay HD
 http://ipflix.click:80/sq1x0qr86b/7777/23770
-#EXTINF:-1 tvg-id="fox.de" tvg-name="Sky Replay" tvg-logo="https://i.postimg.cc/J7g72BDs/SKYREPLAY.png" group-title="Movies&Series",Sky Replay
+#EXTINF:-1 tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="https://i.postimg.cc/J7g72BDs/SKYREPLAY.png" group-title="Movies&Series",Sky Replay
 http://ipflix.click:80/sq1x0qr86b/7777/6245
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Premiere HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Movies&Series",Eagle Cinema Premiere HD
 http://ipflix.click:80/sq1x0qr86b/7777/681946
