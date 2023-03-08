@@ -1,135 +1,135 @@
 #EXTM3U #LEVOTV#
 
-#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD" tvg-logo="http://195.8.200.254/Logo/DE/HD/DAS.ERSTE.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Das Erste HD
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Das Erste HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96370
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="http://logo.gulatv.xyz/Logo/DE/HD/ZDF.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ZDF HD
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ZDF HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96371
 #EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDFinfo HD" tvg-logo="http://logo.gulatv.xyz/Logo/DE/HD/ZDF.INFO.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ZDFinfo HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96372
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDFneo HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zdf-neo-de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ZDFneo HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96373
-#EXTINF:-1 tvg-id="one.de" tvg-name="ONE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ard_one.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ONE HD
+#EXTINF:-1 tvg-id="one.de" tvg-name="ONE HD" tvg-logo="https://i.postimg.cc/0j5SXKbW/One.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ONE HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96380
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sat1_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Sat 1 HD+
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT.1 HD+" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96398
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sat1_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Sat 1 HD
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT.1 HD" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96399
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT.1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/SAT.1.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 HD
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT.1 HD" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260052
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 Gold HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sat1_de_gold.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT 1 Gold HD+
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT.1 Gold HD+" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 Gold HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96401
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 Gold HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sat1_de_gold.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT 1 Gold HD
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT.1 Gold HD" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 Gold HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96402
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT.1 Gold HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/GOLD.SAT.1.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 Gold HD
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT.1 Gold HD" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 Gold HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260051
-#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT 1 Emotions" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sat1_de_emotions.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT 1 Emotions
-http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96404
-#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT.1 emotions HD" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 emotions HD
+#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT.1 emotions HD" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 emotions HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260053
-#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT.1 emotions" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/GOLD.SAT.1.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 emotions
+#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT.1 Emotions" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 Emotions
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96404
+#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT.1 emotions" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SAT.1 emotions
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260054
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro 7 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 HD+
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro 7 HD+" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96383
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro 7 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/PRO7.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 HD
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro 7 HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96384
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/PRO7.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ProSieben HD
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ProSieben HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260047
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 Maxx HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 Maxx HD+
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 Maxx HD+" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 Maxx HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96386
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 Maxx HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 Maxx HD
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 Maxx HD" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 Maxx HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96387
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben MAXX HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/PRO7.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ProSieben MAXX HD
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben MAXX HD" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ProSieben MAXX HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260048
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben MAXX" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/PRO7.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ProSieben MAXX
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben MAXX" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ProSieben MAXX
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260049
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prosieben-fun-de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 Fun HD+
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun HD+" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 Fun HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96389
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prosieben-fun-de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 Fun HD
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Pro 7 Fun HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96390
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben FUN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.FHD/ZFUN.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ProSieben FUN HD
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben FUN HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ProSieben FUN HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260050
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL HD+
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD+" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96391
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL HD
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96392
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/RTL.RENKLI.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL HD
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260041
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl2_hu.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL 2 HD+
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD+" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL 2 HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96394
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl2_hu.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL 2 HD
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL 2 HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96395
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTLZWEI HD" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTLZWEI HD
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTLZWEI HD" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTLZWEI HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260042
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTLZWEI" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTLZWEI
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTLZWEI" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTLZWEI
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260043
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTL UP HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/RTL.PLUS.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL UP HD
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTL UP HD" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL UP HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260044
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTL UP" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL UP
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTL UP" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL UP
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/233864
-#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime FHD" tvg-logo="ttp://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/RTL.CRIME.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL Crime FHD
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime HD" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL Crime HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260095
-#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL Living HD
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL Living HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260096
-#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/RTL.LIVING.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL Living
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",RTL Living
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260097
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nitro_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",NITRO HD+
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO HD+" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",NITRO HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96416
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nitro_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",NITRO HD
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO HD" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",NITRO HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96417
 
-#EXTINF:-1 tvg-id="kabel.de" tvg-name="Kabel 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Kabel 1 HD+
+#EXTINF:-1 tvg-id="kabel.de" tvg-name="Kabel 1 HD+" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Kabel 1 HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96412
-#EXTINF:-1 tvg-id="kabel.de" tvg-name="Kabel 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Kabel 1 HD
+#EXTINF:-1 tvg-id="kabel.de" tvg-name="Kabel 1 HD" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Kabel 1 HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96413
-#EXTINF:-1 tvg-id="kabel.de" tvg-name="Kabel eins HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/KABELEINS.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",kabel eins HD
+#EXTINF:-1 tvg-id="kabel.de" tvg-name="Kabel eins HD" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",kabel eins HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260057
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classics" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Kabel 1 Classics
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classics" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Kabel 1 Classics
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96415
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel eins CLASSICS" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="DE Ⓒ GERMANY KABEL",kabel eins CLASSICS
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel eins CLASSICS" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" tvg-id2="MzQ4NzU=" group-title="DE Ⓒ GERMANY KABEL",kabel eins CLASSICS
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260059
-#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/voxup-de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOX HD+
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD+" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOX HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96408
-#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/voxup-de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOX HD
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOX HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96409
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DVOX HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/VOX.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOX HD
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOX HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260045
-#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOX
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOX
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260046
-#EXTINF:-1 tvg-id="voxup.de" tvg-name="VOXup" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/voxup-de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOXup
+#EXTINF:-1 tvg-id="voxup.de" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",VOXup
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96411
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele-5-de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",TELE 5 HD
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 HD" tvg-logo="https://i.postimg.cc/43PB1SbV/Tele-5-2021.png"  tvg-id2="MzQ4NzU=" group-title="Hauptsender",TELE 5 HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96446
 
 
 
 
 
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sixx.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Sixx HD+
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx HD+" tvg-logo="https://i.postimg.cc/66rT1x4k/Sixx.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Sixx HD+
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96405
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sixx.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Sixx HD
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx HD" tvg-logo="https://i.postimg.cc/66rT1x4k/Sixx.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Sixx HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96406
 #EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="C+I HD" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Hauptsender",C+I HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260069
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/KINDER/COMEDY.CENTRAL.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Comedy Central HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260070
 
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/3.SAT.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",3sat HD
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="https://i.postimg.cc/C5QmNvNd/3sat-2019.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",3sat HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260060
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/1200px-3sat_2019.svg.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",3 sat HD
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="https://i.postimg.cc/C5QmNvNd/3sat-2019.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",3 sat HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96381
-#EXTINF:-1 tvg-id="br.de" tvg-name="BR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bayerisches-fernsehen-de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",BR
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR" logo="https://i.postimg.cc/kGYnqtQL/BR.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",BR
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96375
-#EXTINF:-1 tvg-id="hr.de" tvg-name="hr-fernsehen HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/DEUTSCHLAND/DEUTSCHLAND.HD/HR.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",hr-fernsehen HD
+#EXTINF:-1 tvg-id="hr.de" tvg-name="hr-fernsehen HD" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",hr-fernsehen HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260056
-#EXTINF:-1 tvg-id="hr.de" tvg-name="HR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hr_fernsehen_de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",HR
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",HR
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96376
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ndr_fernsehen_hh.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",NDR HD
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD" tvg-logo="https://i.postimg.cc/L8fNt3Z6/NDR.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",NDR HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96377
-#EXTINF:-1 tvg-id="rbb.de" tvg-name="rbb HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rbb-berlin-de.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",rbb HD
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="rbb HD" tvg-logo="https://i.postimg.cc/J0z1fQkb/RBB-Fernsehen-2017.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",rbb HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96378
-#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR BW HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SWR BW HD
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR BW HD" tvg-logo="https://i.postimg.cc/NfWcDtp8/SWR-Fernsehen.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",SWR BW HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96445
-#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wdr_koln.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",WDR HD
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD" tvg-logo="https://i.postimg.cc/Kjwd07rc/WDR-2012.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",WDR HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96379
 
 #EXTINF:-1 tvg-id="atv.de" tvg-name="ATV HD" tvg-logo="https://iconape.com/wp-content/files/gh/282686/png/atv-austria-hd-logo.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",ATV HD
@@ -185,21 +185,21 @@ http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj
 
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Movies & Series ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Movies&Series",✽✽⭒ Movies&Series ⭒✽✽
 http://
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13th Street HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/13.TH.STREET.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",13th Street HD
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13th Street HD" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",13th Street HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260090
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13th Street HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/13.TH.STREET.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",13th Street HD
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13th Street HD" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",13th Street HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260091
-#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SONY.AXN.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",AXN HD
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/k4PXf2T0/AXN.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",AXN HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260112
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainm. HEVC" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/HVC/ENTERTAINM.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",E! Entertainm. HEVC
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/Ls8g9HRK/E-entertainment.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",E! Entertainment
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96368
-#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV HD" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Movies&Series",KinoweltTV HD
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV HD" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",KinoweltTV HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260093
-#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Movies&Series",KinoweltTV
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",KinoweltTV
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260094
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SYFY.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",SYFY HD
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",SYFY HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260101
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SYFY.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",SYFY HD
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",SYFY HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260102
 #EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="Sony Channel FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SONY.CHANNEL.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Sony Channel FHD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260103
@@ -209,23 +209,23 @@ http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260110
 #EXTINF:-1 tvg-id="universal.de" tvg-name="Universal TV HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/UNIVERSAL.CHANNEL.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Universal TV HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260111
-#EXTINF:-1 tvg-id="Warner TV Comedy" tvg-name="Warner Comedy HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/WARNER.COMEDY.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Comedy HD
+#EXTINF:-1 tvg-id="Warner TV Comedy" tvg-name="Warner Comedy HD" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Comedy HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260104
-#EXTINF:-1 tvg-id="Warner TV Comedy" tvg-name="Warner Comedy" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Comedy
+#EXTINF:-1 tvg-id="Warner TV Comedy" tvg-name="Warner Comedy" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Comedy
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260105
 #EXTINF:-1 tvg-id=Warner TV Film" tvg-name="Warner Film HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/WARNER.TV.FILM.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Film HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260106
 #EXTINF:-1 tvg-id="Warner TV Film" tvg-name="Warner Film" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/WARNER.TV.FILM.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Film
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260107
-#EXTINF:-1 tvg-id="Warner TV Serie" tvg-name="Warner Serie HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/WARNER.TV.SERIE.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Serie HD
+#EXTINF:-1 tvg-id="Warner TV Serie" tvg-name="Warner Serie HD" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Serie HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260108
-#EXTINF:-1 tvg-id="Warner TV Serie" tvg-name="Warner Serie HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/WARNER.TV.SERIE.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Serie HD
+#EXTINF:-1 tvg-id="Warner TV Serie" tvg-name="Warner Serie HD" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Warner Serie HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260109
-#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV HD" tvg-logo="" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Romance TV HD
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV HD" tvg-logo="https://i.postimg.cc/6QrLHv9R/Romance-TV-2015.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Romance TV HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260098
-#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.CINEMA.ROMANCE.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Romance TV
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV" tvg-logo="https://i.postimg.cc/6QrLHv9R/Romance-TV-2015.jpg" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Romance TV
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/260099
-#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/romance-tv-logo.png" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Romance TV
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV" tvg-logo="https://i.postimg.cc/6QrLHv9R/Romance-TV-2015.jpg" tvg-id2="MzQ4NzU=" group-title="Hauptsender",Romance TV
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/96443
 
 #EXTINF:-1 tvg-id="sky1.de" tvg-name="Sky One HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-one-de.png" tvg-id2="MzQ4NzU=" group-title="Movies&Series",Sky One HD
