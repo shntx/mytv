@@ -24,13 +24,9 @@ http://ipflix.click:80/sq1x0qr86b/7777/6216
 http://ipflix.click:80/sq1x0qr86b/7777/6210
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Hauptsender",Sat.1
 http://ipflix.click:80/sq1x0qr86b/7777/683455
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben HD
-http://185.234.111.36:8003/play/a0b2/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B] HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben [B] HD
-http://ipflix.click:80/sq1x0qr86b/7777/8235
-#EXTINF:-1 tvg-id="prosieben.de" tvg-name="ProSieben" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben
+#EXTINF:-1 tvg-id="prosieben.de" tvg-name="ProSieben" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben HD
 http://ipflix.click:80/sq1x0qr86b/7777/683393
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B]" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben [B]
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B]" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Hauptsender",ProSieben
 http://ipflix.click:80/sq1x0qr86b/7777/13144
 #EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" group-title="Hauptsender",VOX HD
 http://ipflix.click:80/sq1x0qr86b/7777/13553
@@ -39,11 +35,7 @@ http://ipflix.click:80/sq1x0qr86b/7777/6153
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Hauptsender",VOXup
 http://ipflix.click:80/sq1x0qr86b/7777/679836
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Hauptsender",VOXup [B]
-http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJB79BH4_YEpIBTMsLEasLfo/ts
-#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Hauptsender",VOXup [B2]
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/436.m3u8
-#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Hauptsender",VOXup [B3]
-plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://www.tvnow.de/live-tv/voxup&xdrm=True&xstat&xnormSD&xhighHD=https://plivenowusodash-a.akamaihd.net/live/voxuphdlive/voxuphdlive.isml/.mpd
+http://mag.you24.online:80/n053q554w/xrkasfrhi/679836
 
 #EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel 1 HD" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" group-title="Hauptsender",Kabel 1 HD
 http://ipflix.click:80/sq1x0qr86b/7777/6242
@@ -63,10 +55,6 @@ http://ipflix.click:80/sq1x0qr86b/7777/13137
 http://ipflix.click:80/sq1x0qr86b/7777/8219
 #EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup
 http://ipflix.click:80/sq1x0qr86b/7777/9152
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup [B]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup [B]
-http://45.12.1.14:80/ANlkz5365/doJEAs984/19655
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup [B2]" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Hauptsender",RTLup [B2]
-http://185.236.229.20:9091/play/a004
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime HD" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime HD
 http://ipflix.click:80/sq1x0qr86b/7777/6214
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Hauptsender",RTL Crime
@@ -82,14 +70,11 @@ http://ipflix.click:80/sq1x0qr86b/7777/6213
 #EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="Sat1 Emotion" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" group-title="Hauptsender",Sat1 Emotion
 http://ipflix.click:80/sq1x0qr86b/7777/13135
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold HD" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD
-http://212.18.115.193:3549/play/a00y/index.m3u8 
+http://ipflix.click:80/sq1x0qr86b/7777/6209
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold HD [B]" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Hauptsender",Sat1 Gold HD [B]
-http://2022spn.net:8080/miguelangel/21041978/5245
-
+http://mag.you24.online:80/n053q554w/xrkasfrhi/6209
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
 http://ipflix.click:80/sq1x0qr86b/7777/6219
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD [B]" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun HD
-http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLyVOCr7dTH12oCSUzMpxj0/ts
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun
 http://ipflix.click:80/sq1x0qr86b/7777/13145
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun [B]" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Hauptsender",ProSieben Fun [B]
