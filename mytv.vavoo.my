@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE" tvg-logo="http://logo.cms-s.com/logo/germanynew/das_erste.png" group-title="Hauptsender",DAS ERSTE
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Hauptsender" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+#EXTINF:-1 tvg-name="One" tvg-id="One.de" group-title="Hauptsender" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",One
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-logo="http://logo.cms-s.com/logo/germanynew/zdf.png" group-title="Hauptsender",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
@@ -61,21 +61,21 @@ plugin://plugin.video.vavooto/?name=SIXX
 
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3SAT" tvg-logo="http://logo.cms-s.com/logo/germanynew/3_sat.png" group-title="Regional",3SAT
 plugin://plugin.video.vavooto/?name=3+SAT
-#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
+#EXTINF:-1 tvg-name="BR Fernsehen Süd" tvg-id="BRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd
 https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
-#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
+#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="mdr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Hamburg HD
+#EXTINF:-1 tvg-name="NDR Hamburg" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Hamburg
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbb.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWRFernsehen-rp.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Rheinland-Pfalz HD
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz" tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Rheinland-Pfalz
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
+#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+#EXTINF:-1 tvg-name="WDR" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 
 
@@ -85,7 +85,7 @@ plugin://plugin.video.vavooto/?name=NTV
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 #EXTINF:-1 tvg-id="welt.de" tvg-name="WELT" tvg-logo="http://logo.cms-s.com/logo/germanynew/welt.png" group-title="News",WELT
 plugin://plugin.video.vavooto/?name=WELT
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+#EXTINF:-1 tvg-name="phoenix" tvg-id="phoenix.de" group-title="News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="esports1.de" tvg-name="ESPORTS1" tvg-logo="http://logo.cms-s.com/logo/germanynew/esports1.png" group-title="News",ESPORTS1
 plugin://plugin.video.vavooto/?name=ESPORTS1
@@ -182,11 +182,11 @@ plugin://plugin.video.vavooto/?name=AXN+BLACK
 plugin://plugin.video.vavooto/?name=COMEDY+CENTRAL
 #EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="HEIMATKANAL" tvg-logo="http://logo.cms-s.com/logo/germanynew/heimatkanal.png" group-title="Movies",HEIMATKANAL
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
-#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="KINOWELT" tvg-logo="http://logo.cms-s.com/logo/germanynew/kinowelt.png" group-title="Movies",KINOWELT
+#EXTINF:-1 tvg-id="kinowelttv.de" tvg-name="KINOWELT" tvg-logo="http://logo.cms-s.com/logo/germanynew/kinowelt.png" group-title="Movies",KINOWELT
 plugin://plugin.video.vavooto/?name=KINOWELT
 #EXTINF:-1 tvg-id="Romance.de" tvg-name="ROMANCE TV" tvg-logo="http://logo.cms-s.com/logo/germanynew/romance_tv.png" group-title="Movies",ROMANCE TV
 plugin://plugin.video.vavooto/?name=ROMANCE+TV
-#EXTINF:-1 tvg-id="Universal.de" tvg-name="UNIVERSAL TV" tvg-logo="http://logo.cms-s.com/logo/germanynew/universal_tv.png" group-title="Movies",UNIVERSAL TV
+#EXTINF:-1 tvg-id="Universaltv.de" tvg-name="UNIVERSAL TV" tvg-logo="http://logo.cms-s.com/logo/germanynew/universal_tv.png" group-title="Movies",UNIVERSAL TV
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="WarnerComedy.de" tvg-name="WARNER TV COMEDY" tvg-logo="http://logo.cms-s.com/logo/germanynew/Warner_TV_Comedy.png" group-title="Movies",WARNER TV COMEDY
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
@@ -196,7 +196,7 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 #EXTINF:-1 tvg-id="skyaction.de" tvg-name="SKY CINEMA ACTION" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_cinema_action.png" group-title="Movies",SKY CINEMA ACTION
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 tvg-id="skyatlantichd.de" tvg-name="SKY CINEMA ATLANTIC" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_atlantic.png" group-title="Movies",SKY CINEMA ATLANTIC
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="SKY CINEMA ATLANTIC" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_atlantic.png" group-title="Movies",SKY CINEMA ATLANTIC
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="SKY CINEMA BEST OF" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_cinemaBestOf.png" group-title="Movies",SKY CINEMA BEST OF
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
