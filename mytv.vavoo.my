@@ -15,7 +15,7 @@ plugin://plugin.video.vavooto/?name=ZDF+NEO
 plugin://plugin.video.vavooto/?name=RTL+2
 #EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL" tvg-logo="http://logo.cms-s.com/logo/germanynew/rtl.png" group-title="Hauptsender",RTL
 plugin://plugin.video.vavooto/?name=RTL
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTL UP" tvg-logo="http://logo.cms-s.com/logo/germanynew/rtl_up.png" group-title="Hauptsender",RTL UP
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="RTL UP" tvg-logo="http://logo.cms-s.com/logo/germanynew/rtl_up.png" group-title="Hauptsender",RTL UP
 plugin://plugin.video.vavooto/?name=RTL+UP
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO" tvg-logo="http://logo.cms-s.com/logo/germanynew/nitro.png" group-title="Hauptsender",NITRO
 plugin://plugin.video.vavooto/?name=RTL+NITRO
@@ -26,7 +26,7 @@ plugin://plugin.video.vavooto/?name=RTL+PASSION
 
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1" tvg-logo="http://logo.cms-s.com/logo/germanynew/sat_1.png" group-title="Hauptsender",SAT 1
 plugin://plugin.video.vavooto/?name=SAT+1
-#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT 1 EMOTIONS" tvg-logo="http://logo.cms-s.com/logo/germanynew/sat_1_emotions.png" group-title="Hauptsender",SAT 1 EMOTIONS
+#EXTINF:-1 tvg-id="SatEmotions.de" tvg-name="SAT 1 EMOTIONS" tvg-logo="http://logo.cms-s.com/logo/germanynew/sat_1_emotions.png" group-title="Hauptsender",SAT 1 EMOTIONS
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 GOLD" tvg-logo="http://logo.cms-s.com/logo/germanynew/sat_1_gold.png" group-title="Hauptsender",SAT 1 GOLD
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
@@ -160,9 +160,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-name="Rockland TV" tvg-id="Rockland.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png",Rockland TV
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="One 1 Music TV" tvg-id="One1MusicTV.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png",One 1 Music TV
+#EXTINF:-1 tvg-name="One 1 Music TV" tvg-id="One1Music.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png",One 1 Music TV
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-#EXTINF:-1 tvg-name="Zwei 2 Music TV" tvg-id="Zwei2MusicTV.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png",Zwei 2 Music TV
+#EXTINF:-1 tvg-name="Zwei 2 Music TV" tvg-id="Zwei2Music.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png",Zwei 2 Music TV
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
@@ -222,7 +222,7 @@ plugin://plugin.video.vavooto/?name=SKY+KRIMI
 plugin://plugin.video.vavooto/?name=SKY+1
 #EXTINF:-1 tvg-id="skyreplay.de" tvg-name="SKY REPLAY" tvg-logo="http://logo.cms-s.com/logo/germanynew/Sky_Replay.png" group-title="Movies",SKY REPLAY
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="SKY SYFY" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_syfy.png" group-title="Movies",SKY SYFY
+#EXTINF:-1 tvg-id="skysyfy.de" tvg-name="SKY SYFY" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_syfy.png" group-title="Movies",SKY SYFY
 plugin://plugin.video.vavooto/?name=SYFY
 
 
@@ -271,7 +271,7 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+GOLF
 
 
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="SKY SPORT 1 (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_sport_hd_1.png" group-title="Sport",SKY SPORT 1 (SPIELZEIT)
-plugin://plugin.video.vavooto/?name=SKY+SPORT+1#EXTINF:-1 tvg-id="skysport2.de" tvg-name="SKY SPORT 2 (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="VIP SPORT",SKY SPORT 2 (SPIELZEIT)
+plugin://plugin.video.vavooto/?name=SKY+SPORT+1#EXTINF:-1 tvg-id="skysport2.de" tvg-name="SKY SPORT 2 (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="Sport",SKY SPORT 2 (SPIELZEIT)
 #EXTINF:-1 tvg-id="skysport2.de" tvg-name="SKY SPORT 2 (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="Sport",SKY SPORT 2 (SPIELZEIT)
 plugin://plugin.video.vavooto/?name=SKY+SPORT+2
 #EXTINF:-1 tvg-id="skysport3.de" tvg-name="SKY SPORT 3 (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_sport_hd_3.png" group-title="Sport",SKY SPORT 3 (SPIELZEIT)
@@ -316,7 +316,7 @@ plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="SkySportBundesliga10.de" tvg-name="SKY SPORT BUNDESLIGA 10 (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_bundesliga_hd_10.png" group-title="Sport",SKY SPORT BUNDESLIGA 10 (SPIELZEIT)
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="----- TELEKOM -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/telekom.png" group-title="VIP SPORT",----- TELEKOM -----
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="----- TELEKOM -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/telekom.png" group-title="Sport",----- TELEKOM -----
 http://ip.sltv.be:8080/test/aa/225446
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT" tvg-logo="http://logo.cms-s.com/logo/germany/telekomsport.png" group-title="Sport",MAGENTA SPORT
 http://ip.sltv.be:8080/test/aa/339251
@@ -324,7 +324,7 @@ http://ip.sltv.be:8080/test/aa/339251
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT 2" tvg-logo="http://logo.cms-s.com/logo/germany/telekomsport.png" group-title="Sport",MAGENTA SPORT 2
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT 3" tvg-logo="http://logo.cms-s.com/logo/germany/telekomsport.png" group-title="VIP SPORT",MAGENTA SPORT 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT 3" tvg-logo="http://logo.cms-s.com/logo/germany/telekomsport.png" group-title="Sport",MAGENTA SPORT 3
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGENTA SPORT 4" tvg-logo="http://logo.cms-s.com/logo/germany/telekomsport.png" group-title="Sport",MAGENTA SPORT 4
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
